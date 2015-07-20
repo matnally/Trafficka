@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locationlist>
+  <location id="0">
+    <name>Asia</name>
+    <image>_img/1.jpg</image>
+    <description>This is a description.</description>
+    <longitude>86.6700</longitude>
+    <latitude>46.2830</latitude>
+    <travelzone>0</travelzone>
+  </location>
+  <location id="1">
+    <name>Africa</name>
+    <image>_img/1.jpg</image>
+    <description>This is a description.</description>
+    <longitude>21.0936</longitude>
+    <latitude>7.1881</latitude>
+    <travelzone>1</travelzone>
+  </location>
+  <location id="2">
+    <name>Antarctica</name>
+    <image>_img/1.jpg</image>
+    <description>This is a description.</description>
+    <longitude>0.0000</longitude>
+    <latitude>90.0000</latitude>
+    <travelzone>2</travelzone>
+  </location>
+  <location id="3">
+    <name>Australia</name>
+    <image>_img/1.jpg</image>
+    <description>This is a description.</description>
+    <longitude>149.1245</longitude>
+    <latitude>35.3080</latitude>
+    <travelzone>3</travelzone>
+  </location>
+  <location id="4">
+    <name>Europe</name>
+    <image>_img/1.jpg</image>
+    <description>This is a description.</description>
+    <longitude>25.3167</longitude>
+    <latitude>54.9000</latitude>
+    <travelzone>4</travelzone>
+  </location>
+  <location id="5">
+    <name>North America</name>
+    <image>_img/1.jpg</image>
+    <description>This is a description.</description>
+    <longitude>100.1667</longitude>
+    <latitude>48.1667</latitude>
+    <travelzone>5</travelzone>
+  </location>
+  <location id="6">
+    <name>South America</name>
+    <image>_img/1.jpg</image>
+    <description>This is a description.</description>
+    <longitude>59.4000</longitude>
+    <latitude>13.0000</latitude>
+    <travelzone>6</travelzone>
+  </location>
+</locationlist>

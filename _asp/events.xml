@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eventlist>
+  <event id="0">
+    <name>Alabaster Codify</name>
+    <image>_img/events/alabastercodify.png</image>
+    <description>Wow! &lt;span class='intVariables'&gt;Alabaster Codify&lt;/span&gt; &lt;span class='intVariables'&gt;randomly&lt;/span&gt; &lt;span class='intVariables'&gt;harasses&lt;/span&gt; ya.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Alabaster Codify&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£100&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>100</money>
+  </event>
+  <event id="1">
+    <name>Alison Shithe</name>
+    <image>_img/events/alisonshithe.png</image>
+    <description>Ahh! &lt;span class='intVariables'&gt;Alison Shithe&lt;/span&gt; &lt;span class='intVariables'&gt;lightly&lt;/span&gt; &lt;span class='intVariables'&gt;criticises&lt;/span&gt; ya.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Alison Shithe&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£800&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>800</money>
+  </event>
+  <event id="2">
+    <name>Austen Tasseltine</name>
+    <image>_img/events/austentasseltine.png</image>
+    <description>Geepers! &lt;span class='intVariables'&gt;Austen Tasseltine&lt;/span&gt; &lt;span class='intVariables'&gt;sloppily&lt;/span&gt; &lt;span class='intVariables'&gt;assaults&lt;/span&gt; your face.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Austen Tasseltine&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£700&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>700</money>
+  </event>
+  <event id="3">
+    <name>Barbara Wintergreen</name>
+    <image>_img/events/barbarawintergreen.png</image>
+    <description>Goodness! &lt;span class='intVariables'&gt;Barbara Wintergreen&lt;/span&gt; &lt;span class='intVariables'&gt;really&lt;/span&gt; &lt;span class='intVariables'&gt;argues&lt;/span&gt; your face.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Barbara Wintergreen&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£900&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>900</money>
+  </event>
+  <event id="4">
+    <name>Barnaby Primp</name>
+    <image>_img/events/barnabyprimp.png</image>
+    <description>Woops! &lt;span class='intVariables'&gt;Barnaby Primp&lt;/span&gt; &lt;span class='intVariables'&gt;briskly&lt;/span&gt; &lt;span class='intVariables'&gt;disagrees&lt;/span&gt; you.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Barnaby Primp&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£200&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>200</money>
+  </event>
+  <event id="5">
+    <name>Benpole Bambendy</name>
+    <image>_img/events/benpolebambendy.png</image>
+    <description>Goodness! &lt;span class='intVariables'&gt;Benpole Bambendy&lt;/span&gt; &lt;span class='intVariables'&gt;briskly&lt;/span&gt; &lt;span class='intVariables'&gt;assaults&lt;/span&gt; your person.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Benpole Bambendy&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£100&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>100</money>
+  </event>
+  <event id="6">
+    <name>Bidley Bodley Wilson</name>
+    <image>_img/events/bidleybodleywilson.png</image>
+    <description>My gosh! &lt;span class='intVariables'&gt;Bidley Bodley Wilson&lt;/span&gt; &lt;span class='intVariables'&gt;wholeheartedly&lt;/span&gt; &lt;span class='intVariables'&gt;criticises&lt;/span&gt; your person.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Bidley Bodley Wilson&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£500&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>500</money>
+  </event>
+  <event id="7">
+    <name>Brant</name>
+    <image>_img/events/brant.png</image>
+    <description>Huh! &lt;span class='intVariables'&gt;Brant&lt;/span&gt; &lt;span class='intVariables'&gt;brutally&lt;/span&gt; &lt;span class='intVariables'&gt;disagrees&lt;/span&gt; you.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Brant&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£500&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>500</money>
+  </event>
+  <event id="8">
+    <name>Brian Veltcher</name>
+    <image>_img/events/brianveltcher.png</image>
+    <description>Woops! &lt;span class='intVariables'&gt;Brian Veltcher&lt;/span&gt; &lt;span class='intVariables'&gt;delicately&lt;/span&gt; &lt;span class='intVariables'&gt;disagrees&lt;/span&gt; your face.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Brian Veltcher&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£600&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>600</money>
+  </event>
+  <event id="9">
+    <name>Chesney Christ</name>
+    <image>_img/events/chesneychrist.png</image>
+    <description>Wow! &lt;span class='intVariables'&gt;Chesney Christ&lt;/span&gt; &lt;span class='intVariables'&gt;firmly&lt;/span&gt; &lt;span class='intVariables'&gt;harasses&lt;/span&gt; you.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Chesney Christ&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£400&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>400</money>
+  </event>
+  <event id="10">
+    <name>Chingford Frock-Battery</name>
+    <image>_img/events/chingfordfrock-battery.png</image>
+    <description>Woops! &lt;span class='intVariables'&gt;Chingford Frock-Battery&lt;/span&gt; &lt;span class='intVariables'&gt;brutally&lt;/span&gt; &lt;span class='intVariables'&gt;criticises&lt;/span&gt; your face.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Chingford Frock-Battery&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£300&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>300</money>
+  </event>
+  <event id="11">
+    <name>Clint Hyperwatchtick</name>
+    <image>_img/events/clinthyperwatchtick.png</image>
+    <description>Shit! &lt;span class='intVariables'&gt;Clint Hyperwatchtick&lt;/span&gt; &lt;span class='intVariables'&gt;abruptly&lt;/span&gt; &lt;span class='intVariables'&gt;harasses&lt;/span&gt; you.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Clint Hyperwatchtick&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£800&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>800</money>
+  </event>
+  <event id="12">
+    <name>Clint Rimmer</name>
+    <image>_img/events/clintrimmer.png</image>
+    <description>Gracious! &lt;span class='intVariables'&gt;Clint Rimmer&lt;/span&gt; &lt;span class='intVariables'&gt;brutally&lt;/span&gt; &lt;span class='intVariables'&gt;disagrees&lt;/span&gt; your person.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Clint Rimmer&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£100&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>100</money>
+  </event>
+  <event id="13">
+    <name>Colin Poppshed</name>
+    <image>_img/events/colinpoppshed.png</image>
+    <description>Aha! &lt;span class='intVariables'&gt;Colin Poppshed&lt;/span&gt; &lt;span class='intVariables'&gt;beautifully&lt;/span&gt; &lt;span class='intVariables'&gt;criticises&lt;/span&gt; you.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Colin Poppshed&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£1000&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>1000</money>
+  </event>
+  <event id="14">
+    <name>Collaterlie Sisters</name>
+    <image>_img/events/collaterliesisters.png</image>
+    <description>Gosh! &lt;span class='intVariables'&gt;Collaterlie Sisters&lt;/span&gt; &lt;span class='intVariables'&gt;sloppily&lt;/span&gt; &lt;span class='intVariables'&gt;assaults&lt;/span&gt; ya.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Collaterlie Sisters&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£400&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>400</money>
+  </event>
+  <event id="15">
+    <name>Condublasney Piper</name>
+    <image>_img/events/condublasneypiper.png</image>
+    <description>Darn! &lt;span class='intVariables'&gt;Condublasney Piper&lt;/span&gt; &lt;span class='intVariables'&gt;expertly&lt;/span&gt; &lt;span class='intVariables'&gt;disagrees&lt;/span&gt; you.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Condublasney Piper&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£700&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>700</money>
+  </event>
+  <event id="16">
+    <name>David Bovvinge</name>
+    <image>_img/events/davidbovvinge.png</image>
+    <description>Alas! &lt;span class='intVariables'&gt;David Bovvinge&lt;/span&gt; &lt;span class='intVariables'&gt;briskly&lt;/span&gt; &lt;span class='intVariables'&gt;criticises&lt;/span&gt; your person.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;David Bovvinge&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£900&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>900</money>
+  </event>
+  <event id="17">
+    <name>David Compression</name>
+    <image>_img/events/davidcompression.png</image>
+    <description>Argh! &lt;span class='intVariables'&gt;David Compression&lt;/span&gt; &lt;span class='intVariables'&gt;abruptly&lt;/span&gt; &lt;span class='intVariables'&gt;argues&lt;/span&gt; your person.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;David Compression&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£1000&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>1000</money>
+  </event>
+  <event id="18">
+    <name>David Jatt</name>
+    <image>_img/events/davidjatt.png</image>
+    <description>Behold! &lt;span class='intVariables'&gt;David Jatt&lt;/span&gt; &lt;span class='intVariables'&gt;wholeheartedly&lt;/span&gt; &lt;span class='intVariables'&gt;argues&lt;/span&gt; your person.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;David Jatt&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£800&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>800</money>
+  </event>
+  <event id="19">
+    <name>David Qunt</name>
+    <image>_img/events/davidqunt.png</image>
+    <description>Ahh! &lt;span class='intVariables'&gt;David Qunt&lt;/span&gt; &lt;span class='intVariables'&gt;delicately&lt;/span&gt; &lt;span class='intVariables'&gt;disagrees&lt;/span&gt; your person.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;David Qunt&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£700&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>700</money>
+  </event>
+  <event id="20">
+    <name>David Sanction</name>
+    <image>_img/events/davidsanction.png</image>
+    <description>Ahem! &lt;span class='intVariables'&gt;David Sanction&lt;/span&gt; &lt;span class='intVariables'&gt;wickedly&lt;/span&gt; &lt;span class='intVariables'&gt;argues&lt;/span&gt; your face.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;David Sanction&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£700&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>700</money>
+  </event>
+  <event id="21">
+    <name>Dick Hickory</name>
+    <image>_img/events/dickhickory.png</image>
+    <description>My gosh! &lt;span class='intVariables'&gt;Dick Hickory&lt;/span&gt; &lt;span class='intVariables'&gt;randomly&lt;/span&gt; &lt;span class='intVariables'&gt;criticises&lt;/span&gt; your face.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Dick Hickory&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£300&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>300</money>
+  </event>
+  <event id="22">
+    <name>Donnnald Beth'l'hem</name>
+    <image>_img/events/donnnaldbeth'l'hem.png</image>
+    <description>Golly! &lt;span class='intVariables'&gt;Donnnald Beth'l'hem&lt;/span&gt; &lt;span class='intVariables'&gt;uneasily&lt;/span&gt; &lt;span class='intVariables'&gt;argues&lt;/span&gt; your face.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Donnnald Beth'l'hem&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£300&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>300</money>
+  </event>
+  <event id="23">
+    <name>Douglas Trochs</name>
+    <image>_img/events/douglastrochs.png</image>
+    <description>Ahem! &lt;span class='intVariables'&gt;Douglas Trochs&lt;/span&gt; &lt;span class='intVariables'&gt;lightly&lt;/span&gt; &lt;span class='intVariables'&gt;criticises&lt;/span&gt; you.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Douglas Trochs&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£1000&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>1000</money>
+  </event>
+  <event id="24">
+    <name>Engelbert Impromptu</name>
+    <image>_img/events/engelbertimpromptu.png</image>
+    <description>Geepers! &lt;span class='intVariables'&gt;Engelbert Impromptu&lt;/span&gt; &lt;span class='intVariables'&gt;beautifully&lt;/span&gt; &lt;span class='intVariables'&gt;argues&lt;/span&gt; your person.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Engelbert Impromptu&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£100&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>100</money>
+  </event>
+  <event id="25">
+    <name>Eugene Fraxby</name>
+    <image>_img/events/eugenefraxby.png</image>
+    <description>Alas! &lt;span class='intVariables'&gt;Eugene Fraxby&lt;/span&gt; &lt;span class='intVariables'&gt;wickedly&lt;/span&gt; &lt;span class='intVariables'&gt;disagrees&lt;/span&gt; your person.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Eugene Fraxby&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£900&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>900</money>
+  </event>
+  <event id="26">
+    <name>Fact Portugal</name>
+    <image>_img/events/factportugal.png</image>
+    <description>Shite! &lt;span class='intVariables'&gt;Fact Portugal&lt;/span&gt; &lt;span class='intVariables'&gt;wearily&lt;/span&gt; &lt;span class='intVariables'&gt;assaults&lt;/span&gt; your face.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Fact Portugal&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£400&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>400</money>
+  </event>
+  <event id="27">
+    <name>Gary Riot</name>
+    <image>_img/events/garyriot.png</image>
+    <description>Dang! &lt;span class='intVariables'&gt;Gary Riot&lt;/span&gt; &lt;span class='intVariables'&gt;weirdly&lt;/span&gt; &lt;span class='intVariables'&gt;harasses&lt;/span&gt; you.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Gary Riot&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£600&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>600</money>
+  </event>
+  <event id="28">
+    <name>Gintilly Roundabout</name>
+    <image>_img/events/gintillyroundabout.png</image>
+    <description>Ouch! &lt;span class='intVariables'&gt;Gintilly Roundabout&lt;/span&gt; &lt;span class='intVariables'&gt;sloppily&lt;/span&gt; &lt;span class='intVariables'&gt;argues&lt;/span&gt; ya.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Gintilly Roundabout&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£600&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>600</money>
+  </event>
+  <event id="29">
+    <name>Gloriora Paymaster</name>
+    <image>_img/events/gloriorapaymaster.png</image>
+    <description>Woops! &lt;span class='intVariables'&gt;Gloriora Paymaster&lt;/span&gt; &lt;span class='intVariables'&gt;delicately&lt;/span&gt; &lt;span class='intVariables'&gt;disagrees&lt;/span&gt; your person.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Gloriora Paymaster&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£500&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>500</money>
+  </event>
+  <event id="30">
+    <name>Graham Shithe</name>
+    <image>_img/events/grahamshithe.png</image>
+    <description>Aha! &lt;span class='intVariables'&gt;Graham Shithe&lt;/span&gt; &lt;span class='intVariables'&gt;sorrowfully&lt;/span&gt; &lt;span class='intVariables'&gt;harasses&lt;/span&gt; your face.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Graham Shithe&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£200&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>200</money>
+  </event>
+  <event id="31">
+    <name>Gypsum Fantastic</name>
+    <image>_img/events/gypsumfantastic.png</image>
+    <description>Gee whiz! &lt;span class='intVariables'&gt;Gypsum Fantastic&lt;/span&gt; &lt;span class='intVariables'&gt;weirdly&lt;/span&gt; &lt;span class='intVariables'&gt;argues&lt;/span&gt; your face.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Gypsum Fantastic&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£200&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>200</money>
+  </event>
+  <event id="32">
+    <name>Iggy Pop Barker</name>
+    <image>_img/events/iggypopbarker.png</image>
+    <description>Dang! &lt;span class='intVariables'&gt;Iggy Pop Barker&lt;/span&gt; &lt;span class='intVariables'&gt;beautifully&lt;/span&gt; &lt;span class='intVariables'&gt;argues&lt;/span&gt; your face.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Iggy Pop Barker&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£1000&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>1000</money>
+  </event>
+  <event id="33">
+    <name>Jaques Liverot</name>
+    <image>_img/events/jaquesliverot.png</image>
+    <description>Yikes! &lt;span class='intVariables'&gt;Jaques Liverot&lt;/span&gt; &lt;span class='intVariables'&gt;cheerfully&lt;/span&gt; &lt;span class='intVariables'&gt;argues&lt;/span&gt; you.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Jaques Liverot&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£100&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>100</money>
+  </event>
+  <event id="34">
+    <name>Judy Lehewuttwohen</name>
+    <image>_img/events/judylehewuttwohen.png</image>
+    <description>Ouch! &lt;span class='intVariables'&gt;Judy Lehewuttwohen&lt;/span&gt; &lt;span class='intVariables'&gt;briskly&lt;/span&gt; &lt;span class='intVariables'&gt;disagrees&lt;/span&gt; your person.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Judy Lehewuttwohen&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£400&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>400</money>
+  </event>
+  <event id="35">
+    <name>Keith Boo-ha-ha</name>
+    <image>_img/events/keithboo-ha-ha.png</image>
+    <description>Behold! &lt;span class='intVariables'&gt;Keith Boo-ha-ha&lt;/span&gt; &lt;span class='intVariables'&gt;quickly&lt;/span&gt; &lt;span class='intVariables'&gt;assaults&lt;/span&gt; ya.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Keith Boo-ha-ha&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£200&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>200</money>
+  </event>
+  <event id="36">
+    <name>La-di-da Hardcastle</name>
+    <image>_img/events/la-di-dahardcastle.png</image>
+    <description>Darn! &lt;span class='intVariables'&gt;La-di-da Hardcastle&lt;/span&gt; &lt;span class='intVariables'&gt;cheerfully&lt;/span&gt; &lt;span class='intVariables'&gt;harasses&lt;/span&gt; you.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;La-di-da Hardcastle&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£100&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>100</money>
+  </event>
+  <event id="37">
+    <name>Lardon Irridesco</name>
+    <image>_img/events/lardonirridesco.png</image>
+    <description>Argh! &lt;span class='intVariables'&gt;Lardon Irridesco&lt;/span&gt; &lt;span class='intVariables'&gt;lightly&lt;/span&gt; &lt;span class='intVariables'&gt;harasses&lt;/span&gt; your face.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Lardon Irridesco&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£400&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>400</money>
+  </event>
+  <event id="38">
+    <name>Larkagin Babs</name>
+    <image>_img/events/larkaginbabs.png</image>
+    <description>Ouch! &lt;span class='intVariables'&gt;Larkagin Babs&lt;/span&gt; &lt;span class='intVariables'&gt;expertly&lt;/span&gt; &lt;span class='intVariables'&gt;assaults&lt;/span&gt; you.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Larkagin Babs&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£100&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>100</money>
+  </event>
+  <event id="39">
+    <name>Barry Harribean</name>
+    <image>_img/events/barryharribean.png</image>
+    <description>Doh! &lt;span class='intVariables'&gt;Barry Harribean&lt;/span&gt; &lt;span class='intVariables'&gt;firmly&lt;/span&gt; &lt;span class='intVariables'&gt;assaults&lt;/span&gt; your face.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Barry Harribean&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£500&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>500</money>
+  </event>
+  <event id="40">
+    <name>Massingbird Massingbird</name>
+    <image>_img/events/massingbirdmassingbird.png</image>
+    <description>Darn! &lt;span class='intVariables'&gt;Massingbird Massingbird&lt;/span&gt; &lt;span class='intVariables'&gt;wickedly&lt;/span&gt; &lt;span class='intVariables'&gt;criticises&lt;/span&gt; your face.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Massingbird Massingbird&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£300&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>300</money>
+  </event>
+  <event id="41">
+    <name>Melton Stitt</name>
+    <image>_img/events/meltonstitt.png</image>
+    <description>Woops! &lt;span class='intVariables'&gt;Melton Stitt&lt;/span&gt; &lt;span class='intVariables'&gt;uneasily&lt;/span&gt; &lt;span class='intVariables'&gt;criticises&lt;/span&gt; your person.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Melton Stitt&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£700&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>700</money>
+  </event>
+  <event id="42">
+    <name>Patrick College</name>
+    <image>_img/events/patrickcollege.png</image>
+    <description>Dang! &lt;span class='intVariables'&gt;Patrick College&lt;/span&gt; &lt;span class='intVariables'&gt;uneasily&lt;/span&gt; &lt;span class='intVariables'&gt;assaults&lt;/span&gt; you.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Patrick College&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£1000&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>1000</money>
+  </event>
+  <event id="43">
+    <name>Patrick Da Fronk</name>
+    <image>_img/events/patrickdafronk.png</image>
+    <description>Golly! &lt;span class='intVariables'&gt;Patrick Da Fronk&lt;/span&gt; &lt;span class='intVariables'&gt;sorrowfully&lt;/span&gt; &lt;span class='intVariables'&gt;criticises&lt;/span&gt; your face.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Patrick Da Fronk&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£100&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>100</money>
+  </event>
+  <event id="44">
+    <name>Pervis Grundy</name>
+    <image>_img/events/pervisgrundy.png</image>
+    <description>Uggh! &lt;span class='intVariables'&gt;Pervis Grundy&lt;/span&gt; &lt;span class='intVariables'&gt;brutally&lt;/span&gt; &lt;span class='intVariables'&gt;criticises&lt;/span&gt; your person.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Pervis Grundy&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£800&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>800</money>
+  </event>
+  <event id="45">
+    <name>Peter O'Hanraha-hanrahan</name>
+    <image>_img/events/petero'hanraha-hanrahan.png</image>
+    <description>Shit! &lt;span class='intVariables'&gt;Peter O'Hanraha-hanrahan&lt;/span&gt; &lt;span class='intVariables'&gt;brutally&lt;/span&gt; &lt;span class='intVariables'&gt;criticises&lt;/span&gt; your person.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Peter O'Hanraha-hanrahan&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£400&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>400</money>
+  </event>
+  <event id="46">
+    <name>Peter Phile</name>
+    <image>_img/events/peterphile.png</image>
+    <description>Huh! &lt;span class='intVariables'&gt;Peter Phile&lt;/span&gt; &lt;span class='intVariables'&gt;sloppily&lt;/span&gt; &lt;span class='intVariables'&gt;argues&lt;/span&gt; your face.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Peter Phile&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£100&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>100</money>
+  </event>
+  <event id="47">
+    <name>Peter Sisters-Christmas</name>
+    <image>_img/events/petersisters-christmas.png</image>
+    <description>Behold! &lt;span class='intVariables'&gt;Peter Sisters-Christmas&lt;/span&gt; &lt;span class='intVariables'&gt;wickedly&lt;/span&gt; &lt;span class='intVariables'&gt;argues&lt;/span&gt; your person.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Peter Sisters-Christmas&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£100&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>100</money>
+  </event>
+  <event id="48">
+    <name>Pheona Haahlam</name>
+    <image>_img/events/pheonahaahlam.png</image>
+    <description>Goodness! &lt;span class='intVariables'&gt;Pheona Haahlam&lt;/span&gt; &lt;span class='intVariables'&gt;cheerfully&lt;/span&gt; &lt;span class='intVariables'&gt;assaults&lt;/span&gt; you.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Pheona Haahlam&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£600&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>600</money>
+  </event>
+  <event id="49">
+    <name>Phillip Phillip Annoyman</name>
+    <image>_img/events/phillipphillipannoyman.png</image>
+    <description>Woah! &lt;span class='intVariables'&gt;Phillip Phillip Annoyman&lt;/span&gt; &lt;span class='intVariables'&gt;sorrowfully&lt;/span&gt; &lt;span class='intVariables'&gt;harasses&lt;/span&gt; your person.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Phillip Phillip Annoyman&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£300&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>300</money>
+  </event>
+  <event id="50">
+    <name>Polly Pantomime</name>
+    <image>_img/events/pollypantomime.png</image>
+    <description>Gosh! &lt;span class='intVariables'&gt;Polly Pantomime&lt;/span&gt; &lt;span class='intVariables'&gt;sorrowfully&lt;/span&gt; &lt;span class='intVariables'&gt;criticises&lt;/span&gt; your person.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Polly Pantomime&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£500&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>500</money>
+  </event>
+  <event id="51">
+    <name>Romo Metaxxas</name>
+    <image>_img/events/romometaxxas.png</image>
+    <description>Ouch! &lt;span class='intVariables'&gt;Romo Metaxxas&lt;/span&gt; &lt;span class='intVariables'&gt;expertly&lt;/span&gt; &lt;span class='intVariables'&gt;assaults&lt;/span&gt; ya.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Romo Metaxxas&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£100&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>100</money>
+  </event>
+  <event id="52">
+    <name>Rosie May</name>
+    <image>_img/events/rosiemay.png</image>
+    <description>Golly! &lt;span class='intVariables'&gt;Rosie May&lt;/span&gt; &lt;span class='intVariables'&gt;wholeheartedly&lt;/span&gt; &lt;span class='intVariables'&gt;criticises&lt;/span&gt; your face.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Rosie May&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£700&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>700</money>
+  </event>
+  <event id="53">
+    <name>Simeon Sameon</name>
+    <image>_img/events/simeonsameon.png</image>
+    <description>Doh! &lt;span class='intVariables'&gt;Simeon Sameon&lt;/span&gt; &lt;span class='intVariables'&gt;willfully&lt;/span&gt; &lt;span class='intVariables'&gt;argues&lt;/span&gt; you.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Simeon Sameon&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£600&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>600</money>
+  </event>
+  <event id="54">
+    <name>Sir Hugh Maharggs</name>
+    <image>_img/events/sirhughmaharggs.png</image>
+    <description>Gracious! &lt;span class='intVariables'&gt;Sir Hugh Maharggs&lt;/span&gt; &lt;span class='intVariables'&gt;quickly&lt;/span&gt; &lt;span class='intVariables'&gt;argues&lt;/span&gt; you.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Sir Hugh Maharggs&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£300&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>300</money>
+  </event>
+  <event id="55">
+    <name>Sir Michael Cog-lucifer</name>
+    <image>_img/events/sirmichaelcog-lucifer.png</image>
+    <description>Shucks! &lt;span class='intVariables'&gt;Sir Michael Cog-lucifer&lt;/span&gt; &lt;span class='intVariables'&gt;cheerfully&lt;/span&gt; &lt;span class='intVariables'&gt;argues&lt;/span&gt; your person.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Sir Michael Cog-lucifer&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£400&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>400</money>
+  </event>
+  <event id="56">
+    <name>Sophie Valve</name>
+    <image>_img/events/sophievalve.png</image>
+    <description>Ouch! &lt;span class='intVariables'&gt;Sophie Valve&lt;/span&gt; &lt;span class='intVariables'&gt;firmly&lt;/span&gt; &lt;span class='intVariables'&gt;argues&lt;/span&gt; you.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Sophie Valve&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£800&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>800</money>
+  </event>
+  <event id="57">
+    <name>Stephen Hole-hoisery</name>
+    <image>_img/events/stephenhole-hoisery.png</image>
+    <description>Ahem! &lt;span class='intVariables'&gt;Stephen Hole-hoisery&lt;/span&gt; &lt;span class='intVariables'&gt;delicately&lt;/span&gt; &lt;span class='intVariables'&gt;assaults&lt;/span&gt; your face.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Stephen Hole-hoisery&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£200&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>200</money>
+  </event>
+  <event id="58">
+    <name>Sylvester Stuart</name>
+    <image>_img/events/sylvesterstuart.png</image>
+    <description>Ahem! &lt;span class='intVariables'&gt;Sylvester Stuart&lt;/span&gt; &lt;span class='intVariables'&gt;delicately&lt;/span&gt; &lt;span class='intVariables'&gt;argues&lt;/span&gt; your person.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Sylvester Stuart&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£100&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>100</money>
+  </event>
+  <event id="59">
+    <name>Tascam Holiday</name>
+    <image>_img/events/tascamholiday.png</image>
+    <description>Darn! &lt;span class='intVariables'&gt;Tascam Holiday&lt;/span&gt; &lt;span class='intVariables'&gt;cheerfully&lt;/span&gt; &lt;span class='intVariables'&gt;criticises&lt;/span&gt; your person.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Tascam Holiday&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£1000&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>1000</money>
+  </event>
+  <event id="60">
+    <name>Ted Maul</name>
+    <image>_img/events/tedmaul.png</image>
+    <description>Ahh! &lt;span class='intVariables'&gt;Ted Maul&lt;/span&gt; &lt;span class='intVariables'&gt;expertly&lt;/span&gt; &lt;span class='intVariables'&gt;criticises&lt;/span&gt; ya.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Ted Maul&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£300&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>300</money>
+  </event>
+  <event id="61">
+    <name>Tommy Territory</name>
+    <image>_img/events/tommyterritory.png</image>
+    <description>Woah! &lt;span class='intVariables'&gt;Tommy Territory&lt;/span&gt; &lt;span class='intVariables'&gt;cheerfully&lt;/span&gt; &lt;span class='intVariables'&gt;argues&lt;/span&gt; your face.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Tommy Territory&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£800&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>800</money>
+  </event>
+  <event id="62">
+    <name>Valerie Sinatra</name>
+    <image>_img/events/valeriesinatra.png</image>
+    <description>Golly! &lt;span class='intVariables'&gt;Valerie Sinatra&lt;/span&gt; &lt;span class='intVariables'&gt;beautifully&lt;/span&gt; &lt;span class='intVariables'&gt;disagrees&lt;/span&gt; ya.&lt;br&gt;&lt;br&gt;&lt;span class='intVariables'&gt;Valerie Sinatra&lt;/span&gt; demands you pay &lt;span class='intVariables'&gt;£200&lt;/span&gt;.&lt;br&gt;&lt;br&gt;What do you want to do?</description>
+    <money>200</money>
+  </event>
+</eventlist>

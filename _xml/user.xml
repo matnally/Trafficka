@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<userlist>
+	<user>
+		<name>MatNally</name>
+		<image>_img/user/matnally/matnally.jpg</image>
+		<description>Nothing</description>
+		<type>Type</type>
+		<health>100</health>
+		<capacity>10</capacity>
+		<money>10000</money>
+		<location>0</location>
+		<distancetraveled>0</distancetraveled>
+	</user>
+</userlist>

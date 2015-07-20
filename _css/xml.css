@@ -1,0 +1,277 @@
+* {
+	font-family:"Trebuchet MS" ;
+}
+
+h1 {
+}
+h2 {
+	
+}
+p {
+}
+
+body {
+/*	background-color: #000;*/
+}
+
+img {
+	border: 1px solid #000;
+}
+
+
+select:hover, #travelButton:hover {
+	cursor:pointer;
+}
+
+
+/* START POP UPS */
+.ui-dialog { z-index: 1000 !important ;} /* So that dialog appears at FRONT */
+.ui-dialog-titlebar-close { visibility: hidden; } /* HIDE close button */
+.ui-dialog-title { text-align:center; }
+/* END POP UPS */
+
+
+
+
+.capitalise {
+	text-transform : capitalize;
+	font-weight:bold;
+}
+
+.dontwannasee {
+	display: none !important;
+	margin: 0px !important;
+	padding: 0px !important;
+}
+
+
+
+.cost {
+	color: red;
+}
+
+
+
+/* START DIVs */
+.datTable {
+	display: table;
+	width:97%;
+	border: 5px solid #333333;
+	margin-top: 9px;
+}
+.datRow, .datRowHeader  {
+	display: table-row;
+	border: 0px solid #000;
+}
+.datRowHeader  h3 {
+	text-align: center;
+}
+.datRowHeader  h3:hover {
+	text-decoration: underline;
+}
+.datRowHeader:hover  {
+	cursor:pointer;
+}
+
+.datRow:hover  {
+	background-color:#ccc;
+	cursor:pointer;
+}
+.datCell {
+	display: table-cell;
+	border: 1px solid #000;
+	text-align: center;	
+}
+.productName {
+	text-align: left;	
+	padding-left: 5px;
+}
+
+.datCell img {
+	vertical-align: middle;
+	border: 0px solid #000;
+	text-align:center !important;	
+}
+/* ROWS */
+.rowChosen {
+	background-color:#ccc;
+}
+
+.PriceUp {
+	background-image: url("/trafficka/_img/triangleup.png");
+    background-size: 25% 100%;
+    background-repeat: no-repeat;
+    font-weight: bolder;
+}
+
+.PriceDown {
+	background-image: url("/trafficka/_img/triangledown.png");
+    background-size: 25% 100%;
+    background-repeat: no-repeat;
+}
+.PriceSame {
+	background-image: url("/trafficka/_img/trianglesame.png");
+    background-size: 25% 100%;
+    background-repeat: no-repeat;
+}
+.PriceUpTrend {
+	background-image: url("/trafficka/_img/triangleuptrend.png") !important;
+    background-size: 25% 100% !important;
+    background-repeat: no-repeat !important;
+    font-weight: bolder !important;
+}
+.PriceDownTrend {
+	background-image: url("/trafficka/_img/triangleuptrend.png") !important;
+    background-size: 25% 100% !important;
+    background-repeat: no-repeat !important;
+    font-weight: bolder !important;
+}
+
+
+/* START DIVs */
+.container {
+	display: table;
+	width:97%;
+	border:0px solid black;
+		border: 5px solid #333333;
+}
+
+#divUserVitals div {
+	padding:0px !important;
+	border: 0px solid #000 !important;
+}
+
+.row  {
+	display: table-row;
+	vertical-align: top;
+}
+
+.left, .right, .middle, .rowCell {
+	display: table-cell;
+	border: 1px solid #000;
+	width: 33.33%;
+	padding:10px;
+/*	background-color: #B6CEFB;*/
+}
+.left{
+	text-align: right;
+}
+.middle{
+	text-align: center !important;
+}
+.rowCell {
+	width: 100% !important;
+}
+
+.calVariables, .intVariables, select {
+	font-size: 150%;
+	font-weight: bold;
+	color: #8F0000;	
+	vertical-align: middle;
+}
+
+select {
+	font-size: 120%;
+	background-color: #ccc
+}
+
+#divUserDetails2 {
+}
+
+#divUserDetails2 .left, #divUserDetails2 .middle, #divUserDetails2 .right
+,#divLocationDetails2 .left, #divLocationDetails2 .middle, #divLocationDetails2 .right  
+,#divProductDetails2 .left, #divProductDetails2 .middle, #divProductDetails2 .right {
+	vertical-align:middle !important;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+#divUserDetails2 .right, #divUserDetails2 .middle, #divLocationDetails2 .right, #divLocationDetails2 .middle, #divProductDetails2 .middle {
+	text-align: left !important;
+}
+#divUserDetails2 .middle img {
+	vertical-align:middle !important;
+}
+
+#elemGrid .datCell {
+}
+
+
+
+#divTopLeft {
+}
+#divTopMiddle {
+}
+#divTopRight {
+}
+#divBottomLeft {
+}
+#divBottomMiddle {
+}
+#divBottomRight {
+}
+
+/* END DIVs */
+
+
+h2 {
+	text-align: center;
+	margin:0px;
+}
+
+#strProductName {
+	margin:0px;
+}
+
+#strProductDescription {
+	margin-top:5px;
+	margin-bottom:3px;
+}
+
+
+#chart {
+	margin-top:7px;
+	width : 403px;
+	height : 200px;	
+}
+
+p {
+	margin:0px;
+}
+
+
+#strUserDescription {
+	text-align: left;
+}
+
+/* USER */
+
+#strUserImage {
+	width: 100px;
+	height: 100px;
+	float: left;
+	margin-right: 5px;
+}
+
+#strLocationImage, #strUserCurrentLocationImage {
+	width: 100px;
+	height: 100px;
+	float: left;
+}
+
+#strUserHealthImage, #strUserTraveledImage, #strUserBalanceImage, #strLocationDistanceImage, #strTravelCostImage, #strTurnImage
+,#strProductStockImage, #strProductPriceImage, #strProductProfitImage, #strMoneySpentImage, #strDestinationImage {
+	vertical-align:middle !important;
+	float: left;
+}
+
+#strProductImage {
+	width: 25px;
+	height: 25px;
+	border: 1px solid #000;
+	float: left;
+}
+
+
+#butSell10 {
+    
+}

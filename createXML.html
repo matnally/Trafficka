@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8" />
+
+<title>Create XML</title>
+
+<style>
+
+	.container {
+		display: table;
+		width:100%;
+		border: 1px solid #000;
+	}
+	
+	.row  {
+		display: table-row;
+		border: 1px solid #000;
+	}
+	
+	.tablecell {
+		display: table-cell;
+		border: 1px solid #000;
+	}
+
+</style>
+
+</head>
+<body>
+
+<h1>Create XML</h1>
+
+<div class="container">
+<div class="row">
+    <div class="tablecell">
+    <form name="frmCreateProducts" action="_asp/createProducts.asp" method="post">
+        <input type="submit" value="Create Products XML file" />
+    </form>
+    <pre><code>    
+    &lt;productlist&gt;
+        &lt;product id=""&gt;
+            &lt;name&gt;&lt;/name&gt;
+            &lt;image&gt;&lt;/image&gt;
+            &lt;description&gt;&lt;/description&gt;
+            &lt;stock&gt;&lt;/stock&gt;
+            &lt;price&gt;
+                &lt;high&gt;&lt;/high&gt;
+                &lt;average&gt;&lt;/average&gt;
+                &lt;low&gt;&lt;/low&gt;
+                &lt;current&gt;&lt;/current&gt;
+                &lt;history&gt;&lt;/history&gt;
+            &lt;/price&gt;
+            &lt;travelzone&gt;&lt;/travelzone&gt;
+        &lt;/product&gt;    
+    &lt;/productlist&gt;
+    </code></pre>
+    </div>
+    <div class="tablecell">
+    <form name="frmCreateCountries" action="_asp/createCountries.asp" method="post">
+        <input type="submit" value="Create Countries XML file" />
+    </form>    
+    <pre><code>    
+    &lt;locationlist&gt;
+        &lt;location id=""&gt;
+            &lt;name&gt;&lt;/name&gt;
+            &lt;image&gt;&lt;/image&gt;
+            &lt;description&gt;&lt;/description&gt;
+            &lt;capital&gt;&lt;/capital&gt;
+            &lt;longitude&gt;&lt;/longitude&gt;
+            &lt;latitude&gt;&lt;/latitude&gt;
+            &lt;travelzone&gt;&lt;/travelzone&gt;
+        &lt;/location&gt;
+    &lt;/locationlist&gt;
+    </code></pre>
+    </div>
+    <div class="tablecell">
+    <form name="frmCreateContinents" action="_asp/createContinents.asp" method="post">
+        <input type="submit" value="Create Continents XML file" />
+    </form>    
+    <pre><code>    
+    &lt;locationlist&gt;
+        &lt;location id=""&gt;
+            &lt;name&gt;&lt;/name&gt;
+            &lt;image&gt;&lt;/image&gt;
+            &lt;description&gt;&lt;/description&gt;
+            &lt;longitude&gt;&lt;/longitude&gt;
+            &lt;latitude&gt;&lt;/latitude&gt;
+            &lt;travelzone&gt;&lt;/travelzone&gt;
+        &lt;/location&gt;
+    &lt;/locationlist&gt;
+    </code></pre>
+    </div>
+    <div class="tablecell">
+    <form name="frmCreateUser" action="_asp/createUser.asp" method="post">
+        <input type="submit" value="Create User XML file" />
+    </form>    
+    <pre><code>    
+    &lt;userlist&gt;
+        &lt;user&gt;
+            &lt;name&gt;&lt;/name&gt;
+            &lt;image&gt;&lt;/image&gt;
+            &lt;description&gt;&lt;/description&gt;           
+            &lt;type&gt;&lt;/type&gt;
+            &lt;health&gt;&lt;/health&gt;
+            &lt;capacity&gt;&lt;/capacity&gt;
+            &lt;money&gt;&lt;/money&gt;
+            &lt;location&gt;&lt;/location&gt;
+            &lt;distancetraveled&gt;&lt;/distancetraveled&gt;
+        &lt;/user&gt;
+    &lt;/userlist&gt;
+    </code></pre>
+    </div>
+    <div class="tablecell">
+    <form name="frmCreateEvents" action="_asp/createEvents.asp" method="post">
+        <input type="submit" value="Create Events XML file" />
+    </form>    
+    <pre><code>    
+    &lt;eventlist&gt;
+        &lt;event&gt;
+            &lt;name&gt;&lt;/name&gt;
+            &lt;image&gt;&lt;/image&gt;
+            &lt;description&gt;&lt;/description&gt;
+            &lt;health&gt;&lt;/health&gt;
+            &lt;money&gt;&lt;/money&gt;
+        &lt;/event&gt;
+    &lt;/eventlist&gt;
+    </code></pre>
+    </div>
+</div>
+<div class="row">
+    <div class="tablecell">Hello</div>
+    <div class="tablecell">Hello</div>
+    <div class="tablecell">Hello</div>
+    <div class="tablecell">Hello</div>
+    <div class="tablecell">Hello</div>
+</div>
+</div>
+
+
+</body>
+</html>

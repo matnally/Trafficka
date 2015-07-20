@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<userlist>
+	<user>
+		<name>Player 1</name>
+		<image>_img/1.jpg</image>
+		<description>This is the Player 1 profile.</description>
+		<type>Type</type>
+		<health>100</health>
+		<capacity>10</capacity>
+		<money>100</money>
+		<location>0</location>
+		<distancetraveled>1</distancetraveled>
+	</user>
+</userlist>

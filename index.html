@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="utf-8" />
+    
+    <title>Trafficka</title>
+    
+    <link rel="stylesheet" type="text/css" href="_css/xml.css" />
+    
+	<!-- jQuery -->
+    <script src="_js/jquery-1.10.2.js"></script>   
+    <script src="_js/jquery-ui/jquery-ui.min.js"></script>
+    <link rel="stylesheet" href="_js/jquery-ui/smoothness/jquery-ui.css" />
+	<!-- Sorting -->
+	<script src="_js/tinysort/jquery.tinysort.min.js" type="text/javascript"></script>
+	<script src="_js/tinysort/tinysort.charorder.min.js" type="text/javascript"></script>
+	<script src="_js/tinysort/tinysort.min.js" type="text/javascript"></script>
+	<!-- Pop ups -->
+	<script src="_js/notify/notify.js"></script>
+	<!-- Charts -->
+	<link rel="stylesheet" type="text/css" href="_js/elycharts/_css/charts.css">
+	<script src="_js/elycharts/_js/raphael.js" type="text/javascript"></script>
+	<script src="_js/elycharts/_js/elycharts.js" type="text/javascript"></script>
+	<script src="_js/elycharts/_js/charts.js" type="text/javascript"></script>
+    <!-- Preloader -->
+    <link rel="stylesheet" type="text/css" href="_js/jpreloader-v2/css/jpreloader.css" />
+    <script type="text/javascript" src="_js/jpreloader-v2/js/jpreloader.js"></script>
+	<!-- Global variables -->
+    <script src="_js/io.js"></script>
+    <script src="_js/modGlobals.js"></script>
+    <script src="_js/modXML.js"></script>
+    <script src="_js/modUser.js"></script>
+    <script src="_js/modTravel.js"></script>
+    <script src="_js/modLocations.js"></script>
+    <script src="_js/modProducts.js"></script>
+    <script src="_js/modPopulate.js"></script>
+    <script src="_js/modCalculate.js"></script>
+	<script>
+		function mainFunction() {
+			endTurn();
+		}
+	</script>    
+
+
+</head>
+<body>
+	
+<div class="container">
+	
+    <div class="row">
+        <div id="divTopLeft" class="left">
+                    
+            <img id="strUserImage" src="" alt="User Avatar" />
+            <h2><span id="strUserName">&nbsp;</span></h2>
+            <p id="strUserDescription">&nbsp;</p>
+			<br />
+			<div id="divUserDetails2" class="container">
+			    <div class="row">
+			        <div class="left"><p>Health</p>
+			        </div><!-- left -->
+			        <div class="middle"><img id="strUserHealthImage" src="" alt="User Health Status" />&nbsp;<span id="strUserHealth" class="calVariables">&nbsp;</span>%
+			        </div><!-- middle -->
+			    </div><!-- row -->
+			    <div class="row">
+			        <div class="left"><p>Traveled</p>
+			        </div><!-- left -->
+			        <div class="middle"><img id="strUserTraveledImage" src="_img/products/wheel.png" alt="User Traveled" /><p>&nbsp;<span title="" id="strUserCurrentDistanceTraveled" name="strUserCurrentDistanceTraveled" class="calVariables">&nbsp;</span> miles (1000)</p>
+			        </div><!-- middle -->
+			    </div><!-- row -->
+			    <div class="row">
+			        <div class="left"><p>Balance</p>
+			        </div><!-- left -->
+			        <div class="middle"><img id="strUserBalanceImage" src="_img/products/money.png" alt="User Balance Status" />&nbsp;<span name="strCurrency" class="">&nbsp;</span><span id="strUserCurrentBalance" name="strUserCurrentBalance" class="calVariables">&nbsp;</span>
+			        </div><!-- middle -->
+			    </div><!-- row -->
+			</div><!-- container -->			
+			<br />
+			<div id="divLocationDetails2" class="container">
+			    <div class="row">
+			        <div class="left"><p>Destination</p>
+			        </div><!-- left -->
+			        <div class="middle"><img id="strDestinationImage" src="_img/products/house.png" alt="Destination" /><div id="elemLocationList">&nbsp;</div>
+			        </div><!-- middle -->
+			    </div><!-- row -->
+			    <div class="row">
+			        <div class="left"><p>Distance</p>
+			        </div><!-- left -->
+			        <div class="middle"><img id="strLocationDistanceImage" src="_img/products/wheel.png" alt="Location Distance" /><p>&nbsp;<span id="strTravelDistance" name="strTravelDistance" class="calVariables">&nbsp;</span> miles</p>
+			        </div><!-- middle -->
+			    </div><!-- row -->
+			    <div class="row">
+			        <div class="left"><p>Travel Cost</p>
+			        </div><!-- left -->
+			        <div class="middle"><img id="strTravelCostImage" src="_img/products/money.png" alt="Location Travel Cost" />&nbsp;<span name="strCurrency" class="">&nbsp;</span><span id="strTravelCost" name="strTravelCost" class="calVariables">&nbsp;</span>
+			        </div><!-- middle -->
+			    </div><!-- row -->
+			    <div class="row">
+			        <div class="left"><p>Turn</p>
+			        </div><!-- left -->
+			        <div class="middle"><img id="strTurnImage" src="_img/products/bookend.png" alt="Turn Status" />&nbsp;<span id="strTurn" name="strTurn" class="calVariables">1</span> of <span id="strTurnLimit" name="strTurnLimit" class="calVariables">/50</span>&nbsp;&nbsp;<input type="button" id="travelButton" onClick="endTurn();" value="End Turn" />
+			        </div><!-- middle -->
+			    </div><!-- row -->
+			</div><!-- container -->			
+
+        </div><!-- left -->
+        <div id="divTopMiddle" class="middle">
+        	
+			<h2>Available products</h2>
+			<div id="elemGrid" class="datTable">&nbsp;</div>
+
+        </div><!-- middle -->
+        <div id="divTopRight" class="right">
+
+            <h2>Inventory</h2>
+			<div id="elemCart" class="datTable">&nbsp;</div>
+            <br />
+            <input type="button" id="butBuy1" value=" Buy 1 " onclick="calBuySellProduct(0, 1);" />
+            <input type="button" id="butBuy10" value=" Buy 10 " onclick="calBuySellProduct(0, 10);" />
+            <input type="button" id="butBuyMax" value=" Buy Max " onclick="calBuySellProduct(0, 'MAX');" />
+            <input type="button" id="butSell1" value=" Sell 1 " onclick="calBuySellProduct(1, 1);" />
+            <input type="button" id="butSell10" value=" Sell 10 " onclick="calBuySellProduct(1, 10);" />
+            <input type="button" id="butSellMax" value=" Sell Max " onclick="calBuySellProduct(1, 'MAX');" />
+			<hr />			        
+			<span id="divProduct" class="dontwannasee">        	
+				<h3 id="strProductName">&nbsp;</h3>
+				<p id="strProductDescription">&nbsp;</p>
+				<div id="divProductDetails2" class="container">
+				    <div class="row">
+				        <div class="left"><p id="lblStock">Stock</p>
+				        </div><!-- left -->
+				        <div class="middle"><img id="strProductImage" src="" alt="Product Image" />&nbsp;x&nbsp;<span id="strProductCurrentStock" class="calVariables">&nbsp;</span>
+				        </div><!-- middle -->
+				    </div><!-- row -->
+				    <div class="row">
+				        <div class="left"><p id="lblPrice">Price</p>
+				        </div><!-- left -->
+				        <div class="middle"><img id="strProductPriceImage" src="_img/products/money.png" alt="Product Price" />&nbsp;<span name="strCurrency" class="">&nbsp;</span><span id="strProductPriceCurrent" class="calVariables">&nbsp;</span>
+				        </div><!-- middle -->
+				    </div><!-- row -->
+				    <div class="row">
+				        <div class="left"><p>Sell Profit</p>
+				        </div><!-- left -->
+				        <div class="middle" id="divProfit"><img id="strProductProfitImage" src="_img/products/money.png" alt="Sell for Profit" />&nbsp;<span name="strCurrency" class="">&nbsp;</span><span id="strProductProfit" class="calVariables">&nbsp;</span>
+				        </div><!-- middle -->
+				    </div><!-- row -->
+				    <div class="row">
+				        <div class="left"><p>Money spent (Global)</p>
+				        </div><!-- left -->
+				        <div class="middle">
+							<span id="divMoneySpent" class="dontwannasee">
+								<img id="strMoneySpentImage" src="_img/products/money.png" alt="Money Spent" />&nbsp;<span name="strCurrency" class="">&nbsp;</span><span id="intProductsGrandTotal" name="intProductsGrandTotal" class="calVariables">&nbsp;</span>        	
+							</span>
+				        </div><!-- middle -->
+				    </div><!-- row -->
+				</div><!-- container -->			
+				<div id="chart">&nbsp;</div>
+			</span> <!-- divProduct -->
+            
+        </div><!-- right -->
+    </div><!-- row -->
+    
+    <div class="row">
+        <div id="divBottomLeft" class="left">
+        
+			<img id="strUserCurrentLocationImage" src="" alt="Location Image" />
+			<h2>Current location: <span id="strUserCurrentLocationName">&nbsp;</span></h2>
+        	<p><span id="strUserCurrentLocationDescription">&nbsp;</span></p>
+						       
+        </div><!-- left -->
+        <div id="divBottomMiddle" class="middle">
+
+            <span id="divDestination" class="dontwannasee">        	
+                <img id="strLocationImage" src="" alt="Destination Image" />
+                <h2>Destination: <span id="strLocationName">&nbsp;</span></h2>
+                <p><span id="strLocationDescription">&nbsp;</span></p>
+            </span>
+
+        </div><!-- middle -->
+        <div id="divBottomRight" class="right">
+
+            <h2>Summary</h2>
+			<div id="elemUpdates">&nbsp;</div>
+                   
+        </div><!-- right -->
+    </div><!-- row -->
+
+</div><!-- container -->
+
+<!-- pop ups -->
+<div id="divEndTurn"></div>
+<div id="divEventMoney"></div>
+<div id="divNoMoneyOrStock"></div>
+
+
+   
+<script>
+	mainFunction(); //Have to call at the end of the file so that at HTML elements are created for getElementById calls
+</script>		
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        $('body').jpreLoader();
+    });
+</script>
+    
+</body>
+</html>

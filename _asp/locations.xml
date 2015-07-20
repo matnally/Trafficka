@@ -1,0 +1,2003 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locationlist>
+  <location id="0">
+    <name>Afghanistan</name>
+    <image>_img/locations/afghanistan.jpg</image>
+    <tagline>Short tagline of Afghanistan</tagline>
+    <description>This is a description.</description>
+    <capital>Kabul</capital>
+    <longitude>69.11</longitude>
+    <latitude>34.28</latitude>
+    <travelzone>0</travelzone>
+  </location>
+  <location id="1">
+    <name>Albania</name>
+    <image>_img/locations/albania.jpg</image>
+    <tagline>Short tagline of Albania</tagline>
+    <description>This is a description.</description>
+    <capital>Tirane</capital>
+    <longitude>19.49</longitude>
+    <latitude>41.18</latitude>
+    <travelzone>1</travelzone>
+  </location>
+  <location id="2">
+    <name>Algeria</name>
+    <image>_img/locations/algeria.jpg</image>
+    <tagline>Short tagline of Algeria</tagline>
+    <description>This is a description.</description>
+    <capital>Algiers</capital>
+    <longitude>3.08</longitude>
+    <latitude>36.42</latitude>
+    <travelzone>2</travelzone>
+  </location>
+  <location id="3">
+    <name>American Samoa</name>
+    <image>_img/locations/americansamoa.jpg</image>
+    <tagline>Short tagline of American Samoa</tagline>
+    <description>This is a description.</description>
+    <capital>Pago Pago</capital>
+    <longitude>170.43</longitude>
+    <latitude>14.16</latitude>
+    <travelzone>3</travelzone>
+  </location>
+  <location id="4">
+    <name>Andorra</name>
+    <image>_img/locations/andorra.jpg</image>
+    <tagline>Short tagline of Andorra</tagline>
+    <description>This is a description.</description>
+    <capital>Andorra la Vella</capital>
+    <longitude>1.32</longitude>
+    <latitude>42.31</latitude>
+    <travelzone>4</travelzone>
+  </location>
+  <location id="5">
+    <name>Angola</name>
+    <image>_img/locations/angola.jpg</image>
+    <tagline>Short tagline of Angola</tagline>
+    <description>This is a description.</description>
+    <capital>Luanda</capital>
+    <longitude>13.15</longitude>
+    <latitude>8.5</latitude>
+    <travelzone>5</travelzone>
+  </location>
+  <location id="6">
+    <name>Antigua and Barbuda</name>
+    <image>_img/locations/antiguaandbarbuda.jpg</image>
+    <tagline>Short tagline of Antigua and Barbuda</tagline>
+    <description>This is a description.</description>
+    <capital>W. Indies</capital>
+    <longitude>61.48</longitude>
+    <latitude>17.2</latitude>
+    <travelzone>6</travelzone>
+  </location>
+  <location id="7">
+    <name>Argentina</name>
+    <image>_img/locations/argentina.jpg</image>
+    <tagline>Short tagline of Argentina</tagline>
+    <description>This is a description.</description>
+    <capital>Buenos Aires</capital>
+    <longitude>60</longitude>
+    <latitude>36.3</latitude>
+    <travelzone>7</travelzone>
+  </location>
+  <location id="8">
+    <name>Armenia</name>
+    <image>_img/locations/armenia.jpg</image>
+    <tagline>Short tagline of Armenia</tagline>
+    <description>This is a description.</description>
+    <capital>Yerevan</capital>
+    <longitude>44.31</longitude>
+    <latitude>40.1</latitude>
+    <travelzone>8</travelzone>
+  </location>
+  <location id="9">
+    <name>Aruba</name>
+    <image>_img/locations/aruba.jpg</image>
+    <tagline>Short tagline of Aruba</tagline>
+    <description>This is a description.</description>
+    <capital>Oranjestad</capital>
+    <longitude>70.02</longitude>
+    <latitude>12.32</latitude>
+    <travelzone>9</travelzone>
+  </location>
+  <location id="10">
+    <name>Australia</name>
+    <image>_img/locations/australia.jpg</image>
+    <tagline>Short tagline of Australia</tagline>
+    <description>This is a description.</description>
+    <capital>Canberra</capital>
+    <longitude>149.08</longitude>
+    <latitude>35.15</latitude>
+    <travelzone>10</travelzone>
+  </location>
+  <location id="11">
+    <name>Austria</name>
+    <image>_img/locations/austria.jpg</image>
+    <tagline>Short tagline of Austria</tagline>
+    <description>This is a description.</description>
+    <capital>Vienna</capital>
+    <longitude>16.22</longitude>
+    <latitude>48.12</latitude>
+    <travelzone>11</travelzone>
+  </location>
+  <location id="12">
+    <name>Azerbaijan</name>
+    <image>_img/locations/azerbaijan.jpg</image>
+    <tagline>Short tagline of Azerbaijan</tagline>
+    <description>This is a description.</description>
+    <capital>Baku</capital>
+    <longitude>49.56</longitude>
+    <latitude>40.29</latitude>
+    <travelzone>12</travelzone>
+  </location>
+  <location id="13">
+    <name>Bahamas</name>
+    <image>_img/locations/bahamas.jpg</image>
+    <tagline>Short tagline of Bahamas</tagline>
+    <description>This is a description.</description>
+    <capital>Nassau</capital>
+    <longitude>77.2</longitude>
+    <latitude>25.05</latitude>
+    <travelzone>13</travelzone>
+  </location>
+  <location id="14">
+    <name>Bahrain</name>
+    <image>_img/locations/bahrain.jpg</image>
+    <tagline>Short tagline of Bahrain</tagline>
+    <description>This is a description.</description>
+    <capital>Manama</capital>
+    <longitude>50.3</longitude>
+    <latitude>26.1</latitude>
+    <travelzone>14</travelzone>
+  </location>
+  <location id="15">
+    <name>Bangladesh</name>
+    <image>_img/locations/bangladesh.jpg</image>
+    <tagline>Short tagline of Bangladesh</tagline>
+    <description>This is a description.</description>
+    <capital>Dhaka</capital>
+    <longitude>90.26</longitude>
+    <latitude>23.43</latitude>
+    <travelzone>15</travelzone>
+  </location>
+  <location id="16">
+    <name>Barbados</name>
+    <image>_img/locations/barbados.jpg</image>
+    <tagline>Short tagline of Barbados</tagline>
+    <description>This is a description.</description>
+    <capital>Bridgetown</capital>
+    <longitude>59.3</longitude>
+    <latitude>13.05</latitude>
+    <travelzone>16</travelzone>
+  </location>
+  <location id="17">
+    <name>Belarus</name>
+    <image>_img/locations/belarus.jpg</image>
+    <tagline>Short tagline of Belarus</tagline>
+    <description>This is a description.</description>
+    <capital>Minsk</capital>
+    <longitude>27.3</longitude>
+    <latitude>53.52</latitude>
+    <travelzone>17</travelzone>
+  </location>
+  <location id="18">
+    <name>Belgium</name>
+    <image>_img/locations/belgium.jpg</image>
+    <tagline>Short tagline of Belgium</tagline>
+    <description>This is a description.</description>
+    <capital>Brussels</capital>
+    <longitude>4.21</longitude>
+    <latitude>50.51</latitude>
+    <travelzone>18</travelzone>
+  </location>
+  <location id="19">
+    <name>Belize</name>
+    <image>_img/locations/belize.jpg</image>
+    <tagline>Short tagline of Belize</tagline>
+    <description>This is a description.</description>
+    <capital>Belmopan</capital>
+    <longitude>88.3</longitude>
+    <latitude>17.18</latitude>
+    <travelzone>19</travelzone>
+  </location>
+  <location id="20">
+    <name>Benin</name>
+    <image>_img/locations/benin.jpg</image>
+    <tagline>Short tagline of Benin</tagline>
+    <description>This is a description.</description>
+    <capital>Porto-Novo</capital>
+    <longitude>2.42</longitude>
+    <latitude>6.23</latitude>
+    <travelzone>20</travelzone>
+  </location>
+  <location id="21">
+    <name>Bhutan</name>
+    <image>_img/locations/bhutan.jpg</image>
+    <tagline>Short tagline of Bhutan</tagline>
+    <description>This is a description.</description>
+    <capital>Thimphu</capital>
+    <longitude>89.45</longitude>
+    <latitude>27.31</latitude>
+    <travelzone>21</travelzone>
+  </location>
+  <location id="22">
+    <name>Bolivia</name>
+    <image>_img/locations/bolivia.jpg</image>
+    <tagline>Short tagline of Bolivia</tagline>
+    <description>This is a description.</description>
+    <capital>La Paz</capital>
+    <longitude>68.1</longitude>
+    <latitude>16.2</latitude>
+    <travelzone>22</travelzone>
+  </location>
+  <location id="23">
+    <name>Bosnia and Herzegovina</name>
+    <image>_img/locations/bosniaandherzegovina.jpg</image>
+    <tagline>Short tagline of Bosnia and Herzegovina</tagline>
+    <description>This is a description.</description>
+    <capital>Sarajevo</capital>
+    <longitude>18.26</longitude>
+    <latitude>43.52</latitude>
+    <travelzone>23</travelzone>
+  </location>
+  <location id="24">
+    <name>Botswana</name>
+    <image>_img/locations/botswana.jpg</image>
+    <tagline>Short tagline of Botswana</tagline>
+    <description>This is a description.</description>
+    <capital>Gaborone</capital>
+    <longitude>25.57</longitude>
+    <latitude>24.45</latitude>
+    <travelzone>24</travelzone>
+  </location>
+  <location id="25">
+    <name>Brazil</name>
+    <image>_img/locations/brazil.jpg</image>
+    <tagline>Short tagline of Brazil</tagline>
+    <description>This is a description.</description>
+    <capital>Brasilia</capital>
+    <longitude>47.55</longitude>
+    <latitude>15.47</latitude>
+    <travelzone>25</travelzone>
+  </location>
+  <location id="26">
+    <name>British Virgin Islands</name>
+    <image>_img/locations/britishvirginislands.jpg</image>
+    <tagline>Short tagline of British Virgin Islands</tagline>
+    <description>This is a description.</description>
+    <capital>Road Town</capital>
+    <longitude>64.37</longitude>
+    <latitude>18.27</latitude>
+    <travelzone>26</travelzone>
+  </location>
+  <location id="27">
+    <name>Brunei Darussalam</name>
+    <image>_img/locations/bruneidarussalam.jpg</image>
+    <tagline>Short tagline of Brunei Darussalam</tagline>
+    <description>This is a description.</description>
+    <capital>Bandar Seri Begawan</capital>
+    <longitude>115</longitude>
+    <latitude>4.52</latitude>
+    <travelzone>27</travelzone>
+  </location>
+  <location id="28">
+    <name>Bulgaria</name>
+    <image>_img/locations/bulgaria.jpg</image>
+    <tagline>Short tagline of Bulgaria</tagline>
+    <description>This is a description.</description>
+    <capital>Sofia</capital>
+    <longitude>23.2</longitude>
+    <latitude>42.45</latitude>
+    <travelzone>28</travelzone>
+  </location>
+  <location id="29">
+    <name>Burkina Faso</name>
+    <image>_img/locations/burkinafaso.jpg</image>
+    <tagline>Short tagline of Burkina Faso</tagline>
+    <description>This is a description.</description>
+    <capital>Ouagadougou</capital>
+    <longitude>1.3</longitude>
+    <latitude>12.15</latitude>
+    <travelzone>29</travelzone>
+  </location>
+  <location id="30">
+    <name>Burundi</name>
+    <image>_img/locations/burundi.jpg</image>
+    <tagline>Short tagline of Burundi</tagline>
+    <description>This is a description.</description>
+    <capital>Bujumbura</capital>
+    <longitude>29.18</longitude>
+    <latitude>3.16</latitude>
+    <travelzone>30</travelzone>
+  </location>
+  <location id="31">
+    <name>Cambodia</name>
+    <image>_img/locations/cambodia.jpg</image>
+    <tagline>Short tagline of Cambodia</tagline>
+    <description>This is a description.</description>
+    <capital>Phnom Penh</capital>
+    <longitude>104.55</longitude>
+    <latitude>11.33</latitude>
+    <travelzone>31</travelzone>
+  </location>
+  <location id="32">
+    <name>Cameroon</name>
+    <image>_img/locations/cameroon.jpg</image>
+    <tagline>Short tagline of Cameroon</tagline>
+    <description>This is a description.</description>
+    <capital>Yaounde</capital>
+    <longitude>11.35</longitude>
+    <latitude>3.5</latitude>
+    <travelzone>32</travelzone>
+  </location>
+  <location id="33">
+    <name>Canada</name>
+    <image>_img/locations/canada.jpg</image>
+    <tagline>Short tagline of Canada</tagline>
+    <description>This is a description.</description>
+    <capital>Ottawa</capital>
+    <longitude>75.42</longitude>
+    <latitude>45.27</latitude>
+    <travelzone>33</travelzone>
+  </location>
+  <location id="34">
+    <name>Cape Verde</name>
+    <image>_img/locations/capeverde.jpg</image>
+    <tagline>Short tagline of Cape Verde</tagline>
+    <description>This is a description.</description>
+    <capital>Praia</capital>
+    <longitude>23.34</longitude>
+    <latitude>15.02</latitude>
+    <travelzone>34</travelzone>
+  </location>
+  <location id="35">
+    <name>Cayman Islands</name>
+    <image>_img/locations/caymanislands.jpg</image>
+    <tagline>Short tagline of Cayman Islands</tagline>
+    <description>This is a description.</description>
+    <capital>George Town</capital>
+    <longitude>81.24</longitude>
+    <latitude>19.2</latitude>
+    <travelzone>35</travelzone>
+  </location>
+  <location id="36">
+    <name>Central African Republic</name>
+    <image>_img/locations/centralafricanrepublic.jpg</image>
+    <tagline>Short tagline of Central African Republic</tagline>
+    <description>This is a description.</description>
+    <capital>Bangui</capital>
+    <longitude>18.35</longitude>
+    <latitude>4.23</latitude>
+    <travelzone>36</travelzone>
+  </location>
+  <location id="37">
+    <name>Chad</name>
+    <image>_img/locations/chad.jpg</image>
+    <tagline>Short tagline of Chad</tagline>
+    <description>This is a description.</description>
+    <capital>N'Djamena</capital>
+    <longitude>14.59</longitude>
+    <latitude>12.1</latitude>
+    <travelzone>37</travelzone>
+  </location>
+  <location id="38">
+    <name>Chile</name>
+    <image>_img/locations/chile.jpg</image>
+    <tagline>Short tagline of Chile</tagline>
+    <description>This is a description.</description>
+    <capital>Santiago</capital>
+    <longitude>70.4</longitude>
+    <latitude>33.24</latitude>
+    <travelzone>38</travelzone>
+  </location>
+  <location id="39">
+    <name>China</name>
+    <image>_img/locations/china.jpg</image>
+    <tagline>Short tagline of China</tagline>
+    <description>This is a description.</description>
+    <capital>Beijing</capital>
+    <longitude>116.2</longitude>
+    <latitude>39.55</latitude>
+    <travelzone>39</travelzone>
+  </location>
+  <location id="40">
+    <name>Colombia</name>
+    <image>_img/locations/colombia.jpg</image>
+    <tagline>Short tagline of Colombia</tagline>
+    <description>This is a description.</description>
+    <capital>Bogota</capital>
+    <longitude>74</longitude>
+    <latitude>4.34</latitude>
+    <travelzone>40</travelzone>
+  </location>
+  <location id="41">
+    <name>Comros</name>
+    <image>_img/locations/comros.jpg</image>
+    <tagline>Short tagline of Comros</tagline>
+    <description>This is a description.</description>
+    <capital>Moroni</capital>
+    <longitude>43.16</longitude>
+    <latitude>11.4</latitude>
+    <travelzone>41</travelzone>
+  </location>
+  <location id="42">
+    <name>Congo</name>
+    <image>_img/locations/congo.jpg</image>
+    <tagline>Short tagline of Congo</tagline>
+    <description>This is a description.</description>
+    <capital>Brazzaville</capital>
+    <longitude>15.12</longitude>
+    <latitude>4.09</latitude>
+    <travelzone>42</travelzone>
+  </location>
+  <location id="43">
+    <name>Costa Rica</name>
+    <image>_img/locations/costarica.jpg</image>
+    <tagline>Short tagline of Costa Rica</tagline>
+    <description>This is a description.</description>
+    <capital>San Jose</capital>
+    <longitude>84.02</longitude>
+    <latitude>9.55</latitude>
+    <travelzone>43</travelzone>
+  </location>
+  <location id="44">
+    <name>Cote d'Ivoire</name>
+    <image>_img/locations/coted'ivoire.jpg</image>
+    <tagline>Short tagline of Cote d'Ivoire</tagline>
+    <description>This is a description.</description>
+    <capital>Yamoussoukro</capital>
+    <longitude>5.17</longitude>
+    <latitude>6.49</latitude>
+    <travelzone>44</travelzone>
+  </location>
+  <location id="45">
+    <name>Croatia</name>
+    <image>_img/locations/croatia.jpg</image>
+    <tagline>Short tagline of Croatia</tagline>
+    <description>This is a description.</description>
+    <capital>Zagreb</capital>
+    <longitude>15.58</longitude>
+    <latitude>45.5</latitude>
+    <travelzone>45</travelzone>
+  </location>
+  <location id="46">
+    <name>Cuba</name>
+    <image>_img/locations/cuba.jpg</image>
+    <tagline>Short tagline of Cuba</tagline>
+    <description>This is a description.</description>
+    <capital>Havana</capital>
+    <longitude>82.22</longitude>
+    <latitude>23.08</latitude>
+    <travelzone>46</travelzone>
+  </location>
+  <location id="47">
+    <name>Cyprus</name>
+    <image>_img/locations/cyprus.jpg</image>
+    <tagline>Short tagline of Cyprus</tagline>
+    <description>This is a description.</description>
+    <capital>Nicosia</capital>
+    <longitude>33.25</longitude>
+    <latitude>35.1</latitude>
+    <travelzone>47</travelzone>
+  </location>
+  <location id="48">
+    <name>Czech Republic</name>
+    <image>_img/locations/czechrepublic.jpg</image>
+    <tagline>Short tagline of Czech Republic</tagline>
+    <description>This is a description.</description>
+    <capital>Prague</capital>
+    <longitude>14.22</longitude>
+    <latitude>50.05</latitude>
+    <travelzone>48</travelzone>
+  </location>
+  <location id="49">
+    <name>Democratic People Republic of North Korea</name>
+    <image>_img/locations/democraticpeoplerepublicofnorthkorea.jpg</image>
+    <tagline>Short tagline of Democratic People Republic of North Korea</tagline>
+    <description>This is a description.</description>
+    <capital>P'yongyang</capital>
+    <longitude>125.3</longitude>
+    <latitude>39.09</latitude>
+    <travelzone>49</travelzone>
+  </location>
+  <location id="50">
+    <name>Democratic Republic of the Congo</name>
+    <image>_img/locations/democraticrepublicofthecongo.jpg</image>
+    <tagline>Short tagline of Democratic Republic of the Congo</tagline>
+    <description>This is a description.</description>
+    <capital>Kinshasa</capital>
+    <longitude>15.15</longitude>
+    <latitude>4.2</latitude>
+    <travelzone>50</travelzone>
+  </location>
+  <location id="51">
+    <name>Denmark</name>
+    <image>_img/locations/denmark.jpg</image>
+    <tagline>Short tagline of Denmark</tagline>
+    <description>This is a description.</description>
+    <capital>Copenhagen</capital>
+    <longitude>12.34</longitude>
+    <latitude>55.41</latitude>
+    <travelzone>51</travelzone>
+  </location>
+  <location id="52">
+    <name>Djibouti</name>
+    <image>_img/locations/djibouti.jpg</image>
+    <tagline>Short tagline of Djibouti</tagline>
+    <description>This is a description.</description>
+    <capital>Djibouti</capital>
+    <longitude>42.2</longitude>
+    <latitude>11.08</latitude>
+    <travelzone>52</travelzone>
+  </location>
+  <location id="53">
+    <name>Dominica</name>
+    <image>_img/locations/dominica.jpg</image>
+    <tagline>Short tagline of Dominica</tagline>
+    <description>This is a description.</description>
+    <capital>Roseau</capital>
+    <longitude>61.24</longitude>
+    <latitude>15.2</latitude>
+    <travelzone>53</travelzone>
+  </location>
+  <location id="54">
+    <name>Dominica Republic</name>
+    <image>_img/locations/dominicarepublic.jpg</image>
+    <tagline>Short tagline of Dominica Republic</tagline>
+    <description>This is a description.</description>
+    <capital>Santo Domingo</capital>
+    <longitude>69.59</longitude>
+    <latitude>18.3</latitude>
+    <travelzone>54</travelzone>
+  </location>
+  <location id="55">
+    <name>East Timor</name>
+    <image>_img/locations/easttimor.jpg</image>
+    <tagline>Short tagline of East Timor</tagline>
+    <description>This is a description.</description>
+    <capital>Dili</capital>
+    <longitude>125.34</longitude>
+    <latitude>8.29</latitude>
+    <travelzone>55</travelzone>
+  </location>
+  <location id="56">
+    <name>Ecuador</name>
+    <image>_img/locations/ecuador.jpg</image>
+    <tagline>Short tagline of Ecuador</tagline>
+    <description>This is a description.</description>
+    <capital>Quito</capital>
+    <longitude>78.35</longitude>
+    <latitude>0.15</latitude>
+    <travelzone>56</travelzone>
+  </location>
+  <location id="57">
+    <name>Egypt</name>
+    <image>_img/locations/egypt.jpg</image>
+    <tagline>Short tagline of Egypt</tagline>
+    <description>This is a description.</description>
+    <capital>Cairo</capital>
+    <longitude>31.14</longitude>
+    <latitude>30.01</latitude>
+    <travelzone>57</travelzone>
+  </location>
+  <location id="58">
+    <name>El Salvador</name>
+    <image>_img/locations/elsalvador.jpg</image>
+    <tagline>Short tagline of El Salvador</tagline>
+    <description>This is a description.</description>
+    <capital>San Salvador</capital>
+    <longitude>89.1</longitude>
+    <latitude>13.4</latitude>
+    <travelzone>58</travelzone>
+  </location>
+  <location id="59">
+    <name>Equatorial Guinea</name>
+    <image>_img/locations/equatorialguinea.jpg</image>
+    <tagline>Short tagline of Equatorial Guinea</tagline>
+    <description>This is a description.</description>
+    <capital>Malabo</capital>
+    <longitude>8.5</longitude>
+    <latitude>3.45</latitude>
+    <travelzone>59</travelzone>
+  </location>
+  <location id="60">
+    <name>Eritrea</name>
+    <image>_img/locations/eritrea.jpg</image>
+    <tagline>Short tagline of Eritrea</tagline>
+    <description>This is a description.</description>
+    <capital>Asmara</capital>
+    <longitude>38.55</longitude>
+    <latitude>15.19</latitude>
+    <travelzone>60</travelzone>
+  </location>
+  <location id="61">
+    <name>Estonia</name>
+    <image>_img/locations/estonia.jpg</image>
+    <tagline>Short tagline of Estonia</tagline>
+    <description>This is a description.</description>
+    <capital>Tallinn</capital>
+    <longitude>24.48</longitude>
+    <latitude>59.22</latitude>
+    <travelzone>61</travelzone>
+  </location>
+  <location id="62">
+    <name>Ethiopia</name>
+    <image>_img/locations/ethiopia.jpg</image>
+    <tagline>Short tagline of Ethiopia</tagline>
+    <description>This is a description.</description>
+    <capital>Addis Ababa</capital>
+    <longitude>38.42</longitude>
+    <latitude>9.02</latitude>
+    <travelzone>62</travelzone>
+  </location>
+  <location id="63">
+    <name>Falkland Islands</name>
+    <image>_img/locations/falklandislands.jpg</image>
+    <tagline>Short tagline of Falkland Islands</tagline>
+    <description>This is a description.</description>
+    <capital>Stanley</capital>
+    <longitude>59.51</longitude>
+    <latitude>51.4</latitude>
+    <travelzone>63</travelzone>
+  </location>
+  <location id="64">
+    <name>Faroe Islands</name>
+    <image>_img/locations/faroeislands.jpg</image>
+    <tagline>Short tagline of Faroe Islands</tagline>
+    <description>This is a description.</description>
+    <capital>Torshavn</capital>
+    <longitude>6.56</longitude>
+    <latitude>62.05</latitude>
+    <travelzone>64</travelzone>
+  </location>
+  <location id="65">
+    <name>Fiji</name>
+    <image>_img/locations/fiji.jpg</image>
+    <tagline>Short tagline of Fiji</tagline>
+    <description>This is a description.</description>
+    <capital>Suva</capital>
+    <longitude>178.3</longitude>
+    <latitude>18.06</latitude>
+    <travelzone>65</travelzone>
+  </location>
+  <location id="66">
+    <name>Finland</name>
+    <image>_img/locations/finland.jpg</image>
+    <tagline>Short tagline of Finland</tagline>
+    <description>This is a description.</description>
+    <capital>Helsinki</capital>
+    <longitude>25.03</longitude>
+    <latitude>60.15</latitude>
+    <travelzone>66</travelzone>
+  </location>
+  <location id="67">
+    <name>France</name>
+    <image>_img/locations/france.jpg</image>
+    <tagline>Short tagline of France</tagline>
+    <description>This is a description.</description>
+    <capital>Paris</capital>
+    <longitude>2.2</longitude>
+    <latitude>48.5</latitude>
+    <travelzone>67</travelzone>
+  </location>
+  <location id="68">
+    <name>French Guiana</name>
+    <image>_img/locations/frenchguiana.jpg</image>
+    <tagline>Short tagline of French Guiana</tagline>
+    <description>This is a description.</description>
+    <capital>Cayenne</capital>
+    <longitude>52.18</longitude>
+    <latitude>5.05</latitude>
+    <travelzone>68</travelzone>
+  </location>
+  <location id="69">
+    <name>French Polynesia</name>
+    <image>_img/locations/frenchpolynesia.jpg</image>
+    <tagline>Short tagline of French Polynesia</tagline>
+    <description>This is a description.</description>
+    <capital>Papeete</capital>
+    <longitude>149.34</longitude>
+    <latitude>17.32</latitude>
+    <travelzone>69</travelzone>
+  </location>
+  <location id="70">
+    <name>Gabon</name>
+    <image>_img/locations/gabon.jpg</image>
+    <tagline>Short tagline of Gabon</tagline>
+    <description>This is a description.</description>
+    <capital>Libreville</capital>
+    <longitude>9.26</longitude>
+    <latitude>0.25</latitude>
+    <travelzone>70</travelzone>
+  </location>
+  <location id="71">
+    <name>Gambia</name>
+    <image>_img/locations/gambia.jpg</image>
+    <tagline>Short tagline of Gambia</tagline>
+    <description>This is a description.</description>
+    <capital>Banjul</capital>
+    <longitude>16.4</longitude>
+    <latitude>13.28</latitude>
+    <travelzone>71</travelzone>
+  </location>
+  <location id="72">
+    <name>Georgia</name>
+    <image>_img/locations/georgia.jpg</image>
+    <tagline>Short tagline of Georgia</tagline>
+    <description>This is a description.</description>
+    <capital>T'bilisi</capital>
+    <longitude>44.5</longitude>
+    <latitude>41.43</latitude>
+    <travelzone>72</travelzone>
+  </location>
+  <location id="73">
+    <name>Germany</name>
+    <image>_img/locations/germany.jpg</image>
+    <tagline>Short tagline of Germany</tagline>
+    <description>This is a description.</description>
+    <capital>Berlin</capital>
+    <longitude>13.25</longitude>
+    <latitude>52.3</latitude>
+    <travelzone>73</travelzone>
+  </location>
+  <location id="74">
+    <name>Ghana</name>
+    <image>_img/locations/ghana.jpg</image>
+    <tagline>Short tagline of Ghana</tagline>
+    <description>This is a description.</description>
+    <capital>Accra</capital>
+    <longitude>0.06</longitude>
+    <latitude>5.35</latitude>
+    <travelzone>74</travelzone>
+  </location>
+  <location id="75">
+    <name>Greece</name>
+    <image>_img/locations/greece.jpg</image>
+    <tagline>Short tagline of Greece</tagline>
+    <description>This is a description.</description>
+    <capital>Athens</capital>
+    <longitude>23.46</longitude>
+    <latitude>37.58</latitude>
+    <travelzone>75</travelzone>
+  </location>
+  <location id="76">
+    <name>Greenland</name>
+    <image>_img/locations/greenland.jpg</image>
+    <tagline>Short tagline of Greenland</tagline>
+    <description>This is a description.</description>
+    <capital>Nuuk</capital>
+    <longitude>51.35</longitude>
+    <latitude>64.1</latitude>
+    <travelzone>76</travelzone>
+  </location>
+  <location id="77">
+    <name>Guadeloupe</name>
+    <image>_img/locations/guadeloupe.jpg</image>
+    <tagline>Short tagline of Guadeloupe</tagline>
+    <description>This is a description.</description>
+    <capital>Basse-Terre</capital>
+    <longitude>61.44</longitude>
+    <latitude>16</latitude>
+    <travelzone>77</travelzone>
+  </location>
+  <location id="78">
+    <name>Guatemala</name>
+    <image>_img/locations/guatemala.jpg</image>
+    <tagline>Short tagline of Guatemala</tagline>
+    <description>This is a description.</description>
+    <capital>Guatemala</capital>
+    <longitude>90.22</longitude>
+    <latitude>14.4</latitude>
+    <travelzone>78</travelzone>
+  </location>
+  <location id="79">
+    <name>Guernsey</name>
+    <image>_img/locations/guernsey.jpg</image>
+    <tagline>Short tagline of Guernsey</tagline>
+    <description>This is a description.</description>
+    <capital>St. Peter Port</capital>
+    <longitude>2.33</longitude>
+    <latitude>49.26</latitude>
+    <travelzone>79</travelzone>
+  </location>
+  <location id="80">
+    <name>Guinea</name>
+    <image>_img/locations/guinea.jpg</image>
+    <tagline>Short tagline of Guinea</tagline>
+    <description>This is a description.</description>
+    <capital>Conakry</capital>
+    <longitude>13.49</longitude>
+    <latitude>9.29</latitude>
+    <travelzone>80</travelzone>
+  </location>
+  <location id="81">
+    <name>Guinea-Bissau</name>
+    <image>_img/locations/guinea-bissau.jpg</image>
+    <tagline>Short tagline of Guinea-Bissau</tagline>
+    <description>This is a description.</description>
+    <capital>Bissau</capital>
+    <longitude>15.45</longitude>
+    <latitude>11.45</latitude>
+    <travelzone>81</travelzone>
+  </location>
+  <location id="82">
+    <name>Guyana</name>
+    <image>_img/locations/guyana.jpg</image>
+    <tagline>Short tagline of Guyana</tagline>
+    <description>This is a description.</description>
+    <capital>Georgetown</capital>
+    <longitude>58.12</longitude>
+    <latitude>6.5</latitude>
+    <travelzone>82</travelzone>
+  </location>
+  <location id="83">
+    <name>Haiti</name>
+    <image>_img/locations/haiti.jpg</image>
+    <tagline>Short tagline of Haiti</tagline>
+    <description>This is a description.</description>
+    <capital>Port-au-Prince</capital>
+    <longitude>72.2</longitude>
+    <latitude>18.4</latitude>
+    <travelzone>83</travelzone>
+  </location>
+  <location id="84">
+    <name>Heard Island and McDonald Islands</name>
+    <image>_img/locations/heardislandandmcdonaldislands.jpg</image>
+    <tagline>Short tagline of Heard Island and McDonald Islands</tagline>
+    <description>This is a description.</description>
+    <capital>N/A</capital>
+    <longitude>74</longitude>
+    <latitude>53</latitude>
+    <travelzone>84</travelzone>
+  </location>
+  <location id="85">
+    <name>Honduras</name>
+    <image>_img/locations/honduras.jpg</image>
+    <tagline>Short tagline of Honduras</tagline>
+    <description>This is a description.</description>
+    <capital>Tegucigalpa</capital>
+    <longitude>87.14</longitude>
+    <latitude>14.05</latitude>
+    <travelzone>85</travelzone>
+  </location>
+  <location id="86">
+    <name>Hungary</name>
+    <image>_img/locations/hungary.jpg</image>
+    <tagline>Short tagline of Hungary</tagline>
+    <description>This is a description.</description>
+    <capital>Budapest</capital>
+    <longitude>19.05</longitude>
+    <latitude>47.29</latitude>
+    <travelzone>86</travelzone>
+  </location>
+  <location id="87">
+    <name>Iceland</name>
+    <image>_img/locations/iceland.jpg</image>
+    <tagline>Short tagline of Iceland</tagline>
+    <description>This is a description.</description>
+    <capital>Reykjavik</capital>
+    <longitude>21.57</longitude>
+    <latitude>64.1</latitude>
+    <travelzone>87</travelzone>
+  </location>
+  <location id="88">
+    <name>India</name>
+    <image>_img/locations/india.jpg</image>
+    <tagline>Short tagline of India</tagline>
+    <description>This is a description.</description>
+    <capital>New Delhi</capital>
+    <longitude>77.13</longitude>
+    <latitude>28.37</latitude>
+    <travelzone>88</travelzone>
+  </location>
+  <location id="89">
+    <name>Indonesia</name>
+    <image>_img/locations/indonesia.jpg</image>
+    <tagline>Short tagline of Indonesia</tagline>
+    <description>This is a description.</description>
+    <capital>Jakarta</capital>
+    <longitude>106.49</longitude>
+    <latitude>6.09</latitude>
+    <travelzone>89</travelzone>
+  </location>
+  <location id="90">
+    <name>Iran (Islamic Republic of)</name>
+    <image>_img/locations/iran(islamicrepublicof).jpg</image>
+    <tagline>Short tagline of Iran (Islamic Republic of)</tagline>
+    <description>This is a description.</description>
+    <capital>Tehran</capital>
+    <longitude>51.3</longitude>
+    <latitude>35.44</latitude>
+    <travelzone>90</travelzone>
+  </location>
+  <location id="91">
+    <name>Iraq</name>
+    <image>_img/locations/iraq.jpg</image>
+    <tagline>Short tagline of Iraq</tagline>
+    <description>This is a description.</description>
+    <capital>Baghdad</capital>
+    <longitude>44.3</longitude>
+    <latitude>33.2</latitude>
+    <travelzone>91</travelzone>
+  </location>
+  <location id="92">
+    <name>Ireland</name>
+    <image>_img/locations/ireland.jpg</image>
+    <tagline>Short tagline of Ireland</tagline>
+    <description>This is a description.</description>
+    <capital>Dublin</capital>
+    <longitude>6.15</longitude>
+    <latitude>53.21</latitude>
+    <travelzone>92</travelzone>
+  </location>
+  <location id="93">
+    <name>Israel</name>
+    <image>_img/locations/israel.jpg</image>
+    <tagline>Short tagline of Israel</tagline>
+    <description>This is a description.</description>
+    <capital>Jerusalem</capital>
+    <longitude>35.12</longitude>
+    <latitude>31.47</latitude>
+    <travelzone>93</travelzone>
+  </location>
+  <location id="94">
+    <name>Italy</name>
+    <image>_img/locations/italy.jpg</image>
+    <tagline>Short tagline of Italy</tagline>
+    <description>This is a description.</description>
+    <capital>Rome</capital>
+    <longitude>12.29</longitude>
+    <latitude>41.54</latitude>
+    <travelzone>94</travelzone>
+  </location>
+  <location id="95">
+    <name>Jamaica</name>
+    <image>_img/locations/jamaica.jpg</image>
+    <tagline>Short tagline of Jamaica</tagline>
+    <description>This is a description.</description>
+    <capital>Kingston</capital>
+    <longitude>76.5</longitude>
+    <latitude>18</latitude>
+    <travelzone>95</travelzone>
+  </location>
+  <location id="96">
+    <name>Jordan</name>
+    <image>_img/locations/jordan.jpg</image>
+    <tagline>Short tagline of Jordan</tagline>
+    <description>This is a description.</description>
+    <capital>Amman</capital>
+    <longitude>35.52</longitude>
+    <latitude>31.57</latitude>
+    <travelzone>96</travelzone>
+  </location>
+  <location id="97">
+    <name>Kazakhstan</name>
+    <image>_img/locations/kazakhstan.jpg</image>
+    <tagline>Short tagline of Kazakhstan</tagline>
+    <description>This is a description.</description>
+    <capital>Astana</capital>
+    <longitude>71.3</longitude>
+    <latitude>51.1</latitude>
+    <travelzone>97</travelzone>
+  </location>
+  <location id="98">
+    <name>Kenya</name>
+    <image>_img/locations/kenya.jpg</image>
+    <tagline>Short tagline of Kenya</tagline>
+    <description>This is a description.</description>
+    <capital>Nairobi</capital>
+    <longitude>36.48</longitude>
+    <latitude>1.17</latitude>
+    <travelzone>98</travelzone>
+  </location>
+  <location id="99">
+    <name>Kiribati</name>
+    <image>_img/locations/kiribati.jpg</image>
+    <tagline>Short tagline of Kiribati</tagline>
+    <description>This is a description.</description>
+    <capital>Tarawa</capital>
+    <longitude>173</longitude>
+    <latitude>1.3</latitude>
+    <travelzone>99</travelzone>
+  </location>
+  <location id="100">
+    <name>Kuwait</name>
+    <image>_img/locations/kuwait.jpg</image>
+    <tagline>Short tagline of Kuwait</tagline>
+    <description>This is a description.</description>
+    <capital>Kuwait</capital>
+    <longitude>48</longitude>
+    <latitude>29.3</latitude>
+    <travelzone>100</travelzone>
+  </location>
+  <location id="101">
+    <name>Kyrgyzstan</name>
+    <image>_img/locations/kyrgyzstan.jpg</image>
+    <tagline>Short tagline of Kyrgyzstan</tagline>
+    <description>This is a description.</description>
+    <capital>Bishkek</capital>
+    <longitude>74.46</longitude>
+    <latitude>42.54</latitude>
+    <travelzone>101</travelzone>
+  </location>
+  <location id="102">
+    <name>Lao People Democratic Republic</name>
+    <image>_img/locations/laopeopledemocraticrepublic.jpg</image>
+    <tagline>Short tagline of Lao People Democratic Republic</tagline>
+    <description>This is a description.</description>
+    <capital>Vientiane</capital>
+    <longitude>102.36</longitude>
+    <latitude>17.58</latitude>
+    <travelzone>102</travelzone>
+  </location>
+  <location id="103">
+    <name>Latvia</name>
+    <image>_img/locations/latvia.jpg</image>
+    <tagline>Short tagline of Latvia</tagline>
+    <description>This is a description.</description>
+    <capital>Riga</capital>
+    <longitude>24.08</longitude>
+    <latitude>56.53</latitude>
+    <travelzone>103</travelzone>
+  </location>
+  <location id="104">
+    <name>Lebanon</name>
+    <image>_img/locations/lebanon.jpg</image>
+    <tagline>Short tagline of Lebanon</tagline>
+    <description>This is a description.</description>
+    <capital>Beirut</capital>
+    <longitude>35.31</longitude>
+    <latitude>33.53</latitude>
+    <travelzone>104</travelzone>
+  </location>
+  <location id="105">
+    <name>Lesotho</name>
+    <image>_img/locations/lesotho.jpg</image>
+    <tagline>Short tagline of Lesotho</tagline>
+    <description>This is a description.</description>
+    <capital>Maseru</capital>
+    <longitude>27.3</longitude>
+    <latitude>29.18</latitude>
+    <travelzone>105</travelzone>
+  </location>
+  <location id="106">
+    <name>Liberia</name>
+    <image>_img/locations/liberia.jpg</image>
+    <tagline>Short tagline of Liberia</tagline>
+    <description>This is a description.</description>
+    <capital>Monrovia</capital>
+    <longitude>10.47</longitude>
+    <latitude>6.18</latitude>
+    <travelzone>106</travelzone>
+  </location>
+  <location id="107">
+    <name>Libyan Arab Jamahiriya</name>
+    <image>_img/locations/libyanarabjamahiriya.jpg</image>
+    <tagline>Short tagline of Libyan Arab Jamahiriya</tagline>
+    <description>This is a description.</description>
+    <capital>Tripoli</capital>
+    <longitude>13.07</longitude>
+    <latitude>32.49</latitude>
+    <travelzone>107</travelzone>
+  </location>
+  <location id="108">
+    <name>Liechtenstein</name>
+    <image>_img/locations/liechtenstein.jpg</image>
+    <tagline>Short tagline of Liechtenstein</tagline>
+    <description>This is a description.</description>
+    <capital>Vaduz</capital>
+    <longitude>9.31</longitude>
+    <latitude>47.08</latitude>
+    <travelzone>108</travelzone>
+  </location>
+  <location id="109">
+    <name>Lithuania</name>
+    <image>_img/locations/lithuania.jpg</image>
+    <tagline>Short tagline of Lithuania</tagline>
+    <description>This is a description.</description>
+    <capital>Vilnius</capital>
+    <longitude>25.19</longitude>
+    <latitude>54.38</latitude>
+    <travelzone>109</travelzone>
+  </location>
+  <location id="110">
+    <name>Luxembourg</name>
+    <image>_img/locations/luxembourg.jpg</image>
+    <tagline>Short tagline of Luxembourg</tagline>
+    <description>This is a description.</description>
+    <capital>Luxembourg</capital>
+    <longitude>6.09</longitude>
+    <latitude>49.37</latitude>
+    <travelzone>110</travelzone>
+  </location>
+  <location id="111">
+    <name>Macao, China</name>
+    <image>_img/locations/macao,china.jpg</image>
+    <tagline>Short tagline of Macao, China</tagline>
+    <description>This is a description.</description>
+    <capital>Macau</capital>
+    <longitude>113.33</longitude>
+    <latitude>22.12</latitude>
+    <travelzone>111</travelzone>
+  </location>
+  <location id="112">
+    <name>Madagascar</name>
+    <image>_img/locations/madagascar.jpg</image>
+    <tagline>Short tagline of Madagascar</tagline>
+    <description>This is a description.</description>
+    <capital>Antananarivo</capital>
+    <longitude>47.31</longitude>
+    <latitude>18.55</latitude>
+    <travelzone>112</travelzone>
+  </location>
+  <location id="113">
+    <name>Malawi</name>
+    <image>_img/locations/malawi.jpg</image>
+    <tagline>Short tagline of Malawi</tagline>
+    <description>This is a description.</description>
+    <capital>Lilongwe</capital>
+    <longitude>33.48</longitude>
+    <latitude>14</latitude>
+    <travelzone>113</travelzone>
+  </location>
+  <location id="114">
+    <name>Malaysia</name>
+    <image>_img/locations/malaysia.jpg</image>
+    <tagline>Short tagline of Malaysia</tagline>
+    <description>This is a description.</description>
+    <capital>Kuala Lumpur</capital>
+    <longitude>101.41</longitude>
+    <latitude>3.09</latitude>
+    <travelzone>114</travelzone>
+  </location>
+  <location id="115">
+    <name>Maldives</name>
+    <image>_img/locations/maldives.jpg</image>
+    <tagline>Short tagline of Maldives</tagline>
+    <description>This is a description.</description>
+    <capital>Male</capital>
+    <longitude>73.28</longitude>
+    <latitude>4</latitude>
+    <travelzone>115</travelzone>
+  </location>
+  <location id="116">
+    <name>Mali</name>
+    <image>_img/locations/mali.jpg</image>
+    <tagline>Short tagline of Mali</tagline>
+    <description>This is a description.</description>
+    <capital>Bamako</capital>
+    <longitude>7.55</longitude>
+    <latitude>12.34</latitude>
+    <travelzone>116</travelzone>
+  </location>
+  <location id="117">
+    <name>Malta</name>
+    <image>_img/locations/malta.jpg</image>
+    <tagline>Short tagline of Malta</tagline>
+    <description>This is a description.</description>
+    <capital>Valletta</capital>
+    <longitude>14.31</longitude>
+    <latitude>35.54</latitude>
+    <travelzone>117</travelzone>
+  </location>
+  <location id="118">
+    <name>Martinique</name>
+    <image>_img/locations/martinique.jpg</image>
+    <tagline>Short tagline of Martinique</tagline>
+    <description>This is a description.</description>
+    <capital>Fort-de-France</capital>
+    <longitude>61.02</longitude>
+    <latitude>14.36</latitude>
+    <travelzone>118</travelzone>
+  </location>
+  <location id="119">
+    <name>Mauritania</name>
+    <image>_img/locations/mauritania.jpg</image>
+    <tagline>Short tagline of Mauritania</tagline>
+    <description>This is a description.</description>
+    <capital>Nouakchott</capital>
+    <longitude>57.3</longitude>
+    <latitude>20.1</latitude>
+    <travelzone>119</travelzone>
+  </location>
+  <location id="120">
+    <name>Mayotte</name>
+    <image>_img/locations/mayotte.jpg</image>
+    <tagline>Short tagline of Mayotte</tagline>
+    <description>This is a description.</description>
+    <capital>Mamoudzou</capital>
+    <longitude>45.14</longitude>
+    <latitude>12.48</latitude>
+    <travelzone>120</travelzone>
+  </location>
+  <location id="121">
+    <name>Mexico</name>
+    <image>_img/locations/mexico.jpg</image>
+    <tagline>Short tagline of Mexico</tagline>
+    <description>This is a description.</description>
+    <capital>Mexico</capital>
+    <longitude>99.1</longitude>
+    <latitude>19.2</latitude>
+    <travelzone>121</travelzone>
+  </location>
+  <location id="122">
+    <name>Micronesia</name>
+    <image>_img/locations/micronesia.jpg</image>
+    <tagline>Short tagline of Micronesia</tagline>
+    <description>This is a description.</description>
+    <capital>Palikir</capital>
+    <longitude>158.09</longitude>
+    <latitude>6.55</latitude>
+    <travelzone>122</travelzone>
+  </location>
+  <location id="123">
+    <name>Moldova</name>
+    <image>_img/locations/moldova.jpg</image>
+    <tagline>Short tagline of Moldova</tagline>
+    <description>This is a description.</description>
+    <capital>Chisinau</capital>
+    <longitude>28.5</longitude>
+    <latitude>47.02</latitude>
+    <travelzone>123</travelzone>
+  </location>
+  <location id="124">
+    <name>Mozambique</name>
+    <image>_img/locations/mozambique.jpg</image>
+    <tagline>Short tagline of Mozambique</tagline>
+    <description>This is a description.</description>
+    <capital>Maputo</capital>
+    <longitude>32.32</longitude>
+    <latitude>25.58</latitude>
+    <travelzone>124</travelzone>
+  </location>
+  <location id="125">
+    <name>Myanmar</name>
+    <image>_img/locations/myanmar.jpg</image>
+    <tagline>Short tagline of Myanmar</tagline>
+    <description>This is a description.</description>
+    <capital>Yangon</capital>
+    <longitude>96.2</longitude>
+    <latitude>16.45</latitude>
+    <travelzone>125</travelzone>
+  </location>
+  <location id="126">
+    <name>Namibia</name>
+    <image>_img/locations/namibia.jpg</image>
+    <tagline>Short tagline of Namibia</tagline>
+    <description>This is a description.</description>
+    <capital>Windhoek</capital>
+    <longitude>17.04</longitude>
+    <latitude>22.35</latitude>
+    <travelzone>126</travelzone>
+  </location>
+  <location id="127">
+    <name>Nepal</name>
+    <image>_img/locations/nepal.jpg</image>
+    <tagline>Short tagline of Nepal</tagline>
+    <description>This is a description.</description>
+    <capital>Kathmandu</capital>
+    <longitude>85.2</longitude>
+    <latitude>27.45</latitude>
+    <travelzone>127</travelzone>
+  </location>
+  <location id="128">
+    <name>Netherlands</name>
+    <image>_img/locations/netherlands.jpg</image>
+    <tagline>Short tagline of Netherlands</tagline>
+    <description>This is a description.</description>
+    <capital>Amsterdam</capital>
+    <longitude>4.54</longitude>
+    <latitude>52.23</latitude>
+    <travelzone>128</travelzone>
+  </location>
+  <location id="129">
+    <name>Netherlands Antilles</name>
+    <image>_img/locations/netherlandsantilles.jpg</image>
+    <tagline>Short tagline of Netherlands Antilles</tagline>
+    <description>This is a description.</description>
+    <capital>Willemstad</capital>
+    <longitude>69</longitude>
+    <latitude>12.05</latitude>
+    <travelzone>129</travelzone>
+  </location>
+  <location id="130">
+    <name>New Caledonia</name>
+    <image>_img/locations/newcaledonia.jpg</image>
+    <tagline>Short tagline of New Caledonia</tagline>
+    <description>This is a description.</description>
+    <capital>Noumea</capital>
+    <longitude>166.3</longitude>
+    <latitude>22.17</latitude>
+    <travelzone>130</travelzone>
+  </location>
+  <location id="131">
+    <name>New Zealand</name>
+    <image>_img/locations/newzealand.jpg</image>
+    <tagline>Short tagline of New Zealand</tagline>
+    <description>This is a description.</description>
+    <capital>Wellington</capital>
+    <longitude>174.46</longitude>
+    <latitude>41.19</latitude>
+    <travelzone>131</travelzone>
+  </location>
+  <location id="132">
+    <name>Nicaragua</name>
+    <image>_img/locations/nicaragua.jpg</image>
+    <tagline>Short tagline of Nicaragua</tagline>
+    <description>This is a description.</description>
+    <capital>Managua</capital>
+    <longitude>86.2</longitude>
+    <latitude>12.06</latitude>
+    <travelzone>132</travelzone>
+  </location>
+  <location id="133">
+    <name>Niger</name>
+    <image>_img/locations/niger.jpg</image>
+    <tagline>Short tagline of Niger</tagline>
+    <description>This is a description.</description>
+    <capital>Niamey</capital>
+    <longitude>2.06</longitude>
+    <latitude>13.27</latitude>
+    <travelzone>133</travelzone>
+  </location>
+  <location id="134">
+    <name>Nigeria</name>
+    <image>_img/locations/nigeria.jpg</image>
+    <tagline>Short tagline of Nigeria</tagline>
+    <description>This is a description.</description>
+    <capital>Abuja</capital>
+    <longitude>7.32</longitude>
+    <latitude>9.05</latitude>
+    <travelzone>134</travelzone>
+  </location>
+  <location id="135">
+    <name>Norfolk Island</name>
+    <image>_img/locations/norfolkisland.jpg</image>
+    <tagline>Short tagline of Norfolk Island</tagline>
+    <description>This is a description.</description>
+    <capital>Kingston</capital>
+    <longitude>168.43</longitude>
+    <latitude>45.2</latitude>
+    <travelzone>135</travelzone>
+  </location>
+  <location id="136">
+    <name>Northern Mariana Islands</name>
+    <image>_img/locations/northernmarianaislands.jpg</image>
+    <tagline>Short tagline of Northern Mariana Islands</tagline>
+    <description>This is a description.</description>
+    <capital>Saipan</capital>
+    <longitude>145.45</longitude>
+    <latitude>15.12</latitude>
+    <travelzone>136</travelzone>
+  </location>
+  <location id="137">
+    <name>Norway</name>
+    <image>_img/locations/norway.jpg</image>
+    <tagline>Short tagline of Norway</tagline>
+    <description>This is a description.</description>
+    <capital>Oslo</capital>
+    <longitude>10.45</longitude>
+    <latitude>59.55</latitude>
+    <travelzone>137</travelzone>
+  </location>
+  <location id="138">
+    <name>Oman</name>
+    <image>_img/locations/oman.jpg</image>
+    <tagline>Short tagline of Oman</tagline>
+    <description>This is a description.</description>
+    <capital>Masqat</capital>
+    <longitude>58.36</longitude>
+    <latitude>23.37</latitude>
+    <travelzone>138</travelzone>
+  </location>
+  <location id="139">
+    <name>Pakistan</name>
+    <image>_img/locations/pakistan.jpg</image>
+    <tagline>Short tagline of Pakistan</tagline>
+    <description>This is a description.</description>
+    <capital>Islamabad</capital>
+    <longitude>73.1</longitude>
+    <latitude>33.4</latitude>
+    <travelzone>139</travelzone>
+  </location>
+  <location id="140">
+    <name>Palau</name>
+    <image>_img/locations/palau.jpg</image>
+    <tagline>Short tagline of Palau</tagline>
+    <description>This is a description.</description>
+    <capital>Koror</capital>
+    <longitude>134.28</longitude>
+    <latitude>7.2</latitude>
+    <travelzone>140</travelzone>
+  </location>
+  <location id="141">
+    <name>Panama</name>
+    <image>_img/locations/panama.jpg</image>
+    <tagline>Short tagline of Panama</tagline>
+    <description>This is a description.</description>
+    <capital>Panama</capital>
+    <longitude>79.25</longitude>
+    <latitude>9</latitude>
+    <travelzone>141</travelzone>
+  </location>
+  <location id="142">
+    <name>Papua New Guinea</name>
+    <image>_img/locations/papuanewguinea.jpg</image>
+    <tagline>Short tagline of Papua New Guinea</tagline>
+    <description>This is a description.</description>
+    <capital>Port Moresby</capital>
+    <longitude>147.08</longitude>
+    <latitude>9.24</latitude>
+    <travelzone>142</travelzone>
+  </location>
+  <location id="143">
+    <name>Paraguay</name>
+    <image>_img/locations/paraguay.jpg</image>
+    <tagline>Short tagline of Paraguay</tagline>
+    <description>This is a description.</description>
+    <capital>Asuncion</capital>
+    <longitude>57.3</longitude>
+    <latitude>25.1</latitude>
+    <travelzone>143</travelzone>
+  </location>
+  <location id="144">
+    <name>Peru</name>
+    <image>_img/locations/peru.jpg</image>
+    <tagline>Short tagline of Peru</tagline>
+    <description>This is a description.</description>
+    <capital>Lima</capital>
+    <longitude>77</longitude>
+    <latitude>12</latitude>
+    <travelzone>144</travelzone>
+  </location>
+  <location id="145">
+    <name>Philippines</name>
+    <image>_img/locations/philippines.jpg</image>
+    <tagline>Short tagline of Philippines</tagline>
+    <description>This is a description.</description>
+    <capital>Manila</capital>
+    <longitude>121.03</longitude>
+    <latitude>14.4</latitude>
+    <travelzone>145</travelzone>
+  </location>
+  <location id="146">
+    <name>Poland</name>
+    <image>_img/locations/poland.jpg</image>
+    <tagline>Short tagline of Poland</tagline>
+    <description>This is a description.</description>
+    <capital>Warsaw</capital>
+    <longitude>21</longitude>
+    <latitude>52.13</latitude>
+    <travelzone>146</travelzone>
+  </location>
+  <location id="147">
+    <name>Portugal</name>
+    <image>_img/locations/portugal.jpg</image>
+    <tagline>Short tagline of Portugal</tagline>
+    <description>This is a description.</description>
+    <capital>Lisbon</capital>
+    <longitude>9.1</longitude>
+    <latitude>38.42</latitude>
+    <travelzone>147</travelzone>
+  </location>
+  <location id="148">
+    <name>Puerto Rico</name>
+    <image>_img/locations/puertorico.jpg</image>
+    <tagline>Short tagline of Puerto Rico</tagline>
+    <description>This is a description.</description>
+    <capital>San Juan</capital>
+    <longitude>66.07</longitude>
+    <latitude>18.28</latitude>
+    <travelzone>148</travelzone>
+  </location>
+  <location id="149">
+    <name>Qatar</name>
+    <image>_img/locations/qatar.jpg</image>
+    <tagline>Short tagline of Qatar</tagline>
+    <description>This is a description.</description>
+    <capital>Doha</capital>
+    <longitude>51.35</longitude>
+    <latitude>25.15</latitude>
+    <travelzone>149</travelzone>
+  </location>
+  <location id="150">
+    <name>Republic of South Korea</name>
+    <image>_img/locations/republicofsouthkorea.jpg</image>
+    <tagline>Short tagline of Republic of South Korea</tagline>
+    <description>This is a description.</description>
+    <capital>Seoul</capital>
+    <longitude>126.58</longitude>
+    <latitude>37.31</latitude>
+    <travelzone>150</travelzone>
+  </location>
+  <location id="151">
+    <name>Romania</name>
+    <image>_img/locations/romania.jpg</image>
+    <tagline>Short tagline of Romania</tagline>
+    <description>This is a description.</description>
+    <capital>Bucuresti</capital>
+    <longitude>26.1</longitude>
+    <latitude>44.27</latitude>
+    <travelzone>151</travelzone>
+  </location>
+  <location id="152">
+    <name>Russian Federation</name>
+    <image>_img/locations/russianfederation.jpg</image>
+    <tagline>Short tagline of Russian Federation</tagline>
+    <description>This is a description.</description>
+    <capital>Moskva</capital>
+    <longitude>37.35</longitude>
+    <latitude>55.45</latitude>
+    <travelzone>152</travelzone>
+  </location>
+  <location id="153">
+    <name>Rawanda</name>
+    <image>_img/locations/rawanda.jpg</image>
+    <tagline>Short tagline of Rawanda</tagline>
+    <description>This is a description.</description>
+    <capital>Kigali</capital>
+    <longitude>30.04</longitude>
+    <latitude>1.59</latitude>
+    <travelzone>153</travelzone>
+  </location>
+  <location id="154">
+    <name>Saint Kitts and Nevis</name>
+    <image>_img/locations/saintkittsandnevis.jpg</image>
+    <tagline>Short tagline of Saint Kitts and Nevis</tagline>
+    <description>This is a description.</description>
+    <capital>Basseterre</capital>
+    <longitude>62.43</longitude>
+    <latitude>17.17</latitude>
+    <travelzone>154</travelzone>
+  </location>
+  <location id="155">
+    <name>Saint Lucia</name>
+    <image>_img/locations/saintlucia.jpg</image>
+    <tagline>Short tagline of Saint Lucia</tagline>
+    <description>This is a description.</description>
+    <capital>Castries</capital>
+    <longitude>60.58</longitude>
+    <latitude>14.02</latitude>
+    <travelzone>155</travelzone>
+  </location>
+  <location id="156">
+    <name>Saint Pierre and Miquelon</name>
+    <image>_img/locations/saintpierreandmiquelon.jpg</image>
+    <tagline>Short tagline of Saint Pierre and Miquelon</tagline>
+    <description>This is a description.</description>
+    <capital>Saint-Pierre</capital>
+    <longitude>56.12</longitude>
+    <latitude>46.46</latitude>
+    <travelzone>156</travelzone>
+  </location>
+  <location id="157">
+    <name>Saint vincent and the Grenadines</name>
+    <image>_img/locations/saintvincentandthegrenadines.jpg</image>
+    <tagline>Short tagline of Saint vincent and the Grenadines</tagline>
+    <description>This is a description.</description>
+    <capital>Kingstown</capital>
+    <longitude>61.1</longitude>
+    <latitude>13.1</latitude>
+    <travelzone>157</travelzone>
+  </location>
+  <location id="158">
+    <name>Samoa</name>
+    <image>_img/locations/samoa.jpg</image>
+    <tagline>Short tagline of Samoa</tagline>
+    <description>This is a description.</description>
+    <capital>Apia</capital>
+    <longitude>171.5</longitude>
+    <latitude>13.5</latitude>
+    <travelzone>158</travelzone>
+  </location>
+  <location id="159">
+    <name>San Marino</name>
+    <image>_img/locations/sanmarino.jpg</image>
+    <tagline>Short tagline of San Marino</tagline>
+    <description>This is a description.</description>
+    <capital>San Marino</capital>
+    <longitude>12.3</longitude>
+    <latitude>43.55</latitude>
+    <travelzone>159</travelzone>
+  </location>
+  <location id="160">
+    <name>Sao Tome and Principe</name>
+    <image>_img/locations/saotomeandprincipe.jpg</image>
+    <tagline>Short tagline of Sao Tome and Principe</tagline>
+    <description>This is a description.</description>
+    <capital>Sao Tome</capital>
+    <longitude>6.39</longitude>
+    <latitude>0.1</latitude>
+    <travelzone>160</travelzone>
+  </location>
+  <location id="161">
+    <name>Saudi Arabia</name>
+    <image>_img/locations/saudiarabia.jpg</image>
+    <tagline>Short tagline of Saudi Arabia</tagline>
+    <description>This is a description.</description>
+    <capital>Riyadh</capital>
+    <longitude>46.42</longitude>
+    <latitude>24.41</latitude>
+    <travelzone>161</travelzone>
+  </location>
+  <location id="162">
+    <name>Senegal</name>
+    <image>_img/locations/senegal.jpg</image>
+    <tagline>Short tagline of Senegal</tagline>
+    <description>This is a description.</description>
+    <capital>Dakar</capital>
+    <longitude>17.29</longitude>
+    <latitude>14.34</latitude>
+    <travelzone>162</travelzone>
+  </location>
+  <location id="163">
+    <name>Sierra Leone</name>
+    <image>_img/locations/sierraleone.jpg</image>
+    <tagline>Short tagline of Sierra Leone</tagline>
+    <description>This is a description.</description>
+    <capital>Freetown</capital>
+    <longitude>13.17</longitude>
+    <latitude>8.3</latitude>
+    <travelzone>163</travelzone>
+  </location>
+  <location id="164">
+    <name>Slovakia</name>
+    <image>_img/locations/slovakia.jpg</image>
+    <tagline>Short tagline of Slovakia</tagline>
+    <description>This is a description.</description>
+    <capital>Bratislava</capital>
+    <longitude>17.07</longitude>
+    <latitude>48.1</latitude>
+    <travelzone>164</travelzone>
+  </location>
+  <location id="165">
+    <name>Slovenia</name>
+    <image>_img/locations/slovenia.jpg</image>
+    <tagline>Short tagline of Slovenia</tagline>
+    <description>This is a description.</description>
+    <capital>Ljubljana</capital>
+    <longitude>14.33</longitude>
+    <latitude>46.04</latitude>
+    <travelzone>165</travelzone>
+  </location>
+  <location id="166">
+    <name>Solomon Islands</name>
+    <image>_img/locations/solomonislands.jpg</image>
+    <tagline>Short tagline of Solomon Islands</tagline>
+    <description>This is a description.</description>
+    <capital>Honiara</capital>
+    <longitude>159.57</longitude>
+    <latitude>9.27</latitude>
+    <travelzone>166</travelzone>
+  </location>
+  <location id="167">
+    <name>Somalia</name>
+    <image>_img/locations/somalia.jpg</image>
+    <tagline>Short tagline of Somalia</tagline>
+    <description>This is a description.</description>
+    <capital>Mogadishu</capital>
+    <longitude>45.25</longitude>
+    <latitude>2.02</latitude>
+    <travelzone>167</travelzone>
+  </location>
+  <location id="168">
+    <name>South Africa</name>
+    <image>_img/locations/southafrica.jpg</image>
+    <tagline>Short tagline of South Africa</tagline>
+    <description>This is a description.</description>
+    <capital>Cape Town</capital>
+    <longitude>28.12</longitude>
+    <latitude>25.44</latitude>
+    <travelzone>168</travelzone>
+  </location>
+  <location id="169">
+    <name>Spain</name>
+    <image>_img/locations/spain.jpg</image>
+    <tagline>Short tagline of Spain</tagline>
+    <description>This is a description.</description>
+    <capital>Madrid</capital>
+    <longitude>3.45</longitude>
+    <latitude>40.25</latitude>
+    <travelzone>169</travelzone>
+  </location>
+  <location id="170">
+    <name>Sudan</name>
+    <image>_img/locations/sudan.jpg</image>
+    <tagline>Short tagline of Sudan</tagline>
+    <description>This is a description.</description>
+    <capital>Khartoum</capital>
+    <longitude>32.35</longitude>
+    <latitude>15.31</latitude>
+    <travelzone>170</travelzone>
+  </location>
+  <location id="171">
+    <name>Suriname</name>
+    <image>_img/locations/suriname.jpg</image>
+    <tagline>Short tagline of Suriname</tagline>
+    <description>This is a description.</description>
+    <capital>Paramaribo</capital>
+    <longitude>55.1</longitude>
+    <latitude>5.5</latitude>
+    <travelzone>171</travelzone>
+  </location>
+  <location id="172">
+    <name>Swaziland</name>
+    <image>_img/locations/swaziland.jpg</image>
+    <tagline>Short tagline of Swaziland</tagline>
+    <description>This is a description.</description>
+    <capital>Mbabane</capital>
+    <longitude>31.06</longitude>
+    <latitude>26.18</latitude>
+    <travelzone>172</travelzone>
+  </location>
+  <location id="173">
+    <name>Sweden</name>
+    <image>_img/locations/sweden.jpg</image>
+    <tagline>Short tagline of Sweden</tagline>
+    <description>This is a description.</description>
+    <capital>Stockholm</capital>
+    <longitude>18.03</longitude>
+    <latitude>59.2</latitude>
+    <travelzone>173</travelzone>
+  </location>
+  <location id="174">
+    <name>Switzerland</name>
+    <image>_img/locations/switzerland.jpg</image>
+    <tagline>Short tagline of Switzerland</tagline>
+    <description>This is a description.</description>
+    <capital>Bern</capital>
+    <longitude>7.28</longitude>
+    <latitude>46.57</latitude>
+    <travelzone>174</travelzone>
+  </location>
+  <location id="175">
+    <name>Syrian Arab Republic</name>
+    <image>_img/locations/syrianarabrepublic.jpg</image>
+    <tagline>Short tagline of Syrian Arab Republic</tagline>
+    <description>This is a description.</description>
+    <capital>Damascus</capital>
+    <longitude>36.18</longitude>
+    <latitude>33.3</latitude>
+    <travelzone>175</travelzone>
+  </location>
+  <location id="176">
+    <name>Tajikistan</name>
+    <image>_img/locations/tajikistan.jpg</image>
+    <tagline>Short tagline of Tajikistan</tagline>
+    <description>This is a description.</description>
+    <capital>Dushanbe</capital>
+    <longitude>68.48</longitude>
+    <latitude>38.33</latitude>
+    <travelzone>176</travelzone>
+  </location>
+  <location id="177">
+    <name>Thailand</name>
+    <image>_img/locations/thailand.jpg</image>
+    <tagline>Short tagline of Thailand</tagline>
+    <description>This is a description.</description>
+    <capital>Bangkok</capital>
+    <longitude>100.35</longitude>
+    <latitude>13.45</latitude>
+    <travelzone>177</travelzone>
+  </location>
+  <location id="178">
+    <name>The Former Yugoslav Republic of Macedonia</name>
+    <image>_img/locations/theformeryugoslavrepublicofmacedonia.jpg</image>
+    <tagline>Short tagline of The Former Yugoslav Republic of Macedonia</tagline>
+    <description>This is a description.</description>
+    <capital>Skopje</capital>
+    <longitude>21.26</longitude>
+    <latitude>42.01</latitude>
+    <travelzone>178</travelzone>
+  </location>
+  <location id="179">
+    <name>Togo</name>
+    <image>_img/locations/togo.jpg</image>
+    <tagline>Short tagline of Togo</tagline>
+    <description>This is a description.</description>
+    <capital>Lome</capital>
+    <longitude>1.2</longitude>
+    <latitude>6.09</latitude>
+    <travelzone>179</travelzone>
+  </location>
+  <location id="180">
+    <name>Tonga</name>
+    <image>_img/locations/tonga.jpg</image>
+    <tagline>Short tagline of Tonga</tagline>
+    <description>This is a description.</description>
+    <capital>Nuku'alofa</capital>
+    <longitude>174</longitude>
+    <latitude>21.1</latitude>
+    <travelzone>180</travelzone>
+  </location>
+  <location id="181">
+    <name>Tunisia</name>
+    <image>_img/locations/tunisia.jpg</image>
+    <tagline>Short tagline of Tunisia</tagline>
+    <description>This is a description.</description>
+    <capital>Tunis</capital>
+    <longitude>10.11</longitude>
+    <latitude>36.5</latitude>
+    <travelzone>181</travelzone>
+  </location>
+  <location id="182">
+    <name>Turkey</name>
+    <image>_img/locations/turkey.jpg</image>
+    <tagline>Short tagline of Turkey</tagline>
+    <description>This is a description.</description>
+    <capital>Ankara</capital>
+    <longitude>32.54</longitude>
+    <latitude>39.57</latitude>
+    <travelzone>182</travelzone>
+  </location>
+  <location id="183">
+    <name>Turkmenistan</name>
+    <image>_img/locations/turkmenistan.jpg</image>
+    <tagline>Short tagline of Turkmenistan</tagline>
+    <description>This is a description.</description>
+    <capital>Ashgabat</capital>
+    <longitude>57.5</longitude>
+    <latitude>38</latitude>
+    <travelzone>183</travelzone>
+  </location>
+  <location id="184">
+    <name>Tuvalu</name>
+    <image>_img/locations/tuvalu.jpg</image>
+    <tagline>Short tagline of Tuvalu</tagline>
+    <description>This is a description.</description>
+    <capital>Funafuti</capital>
+    <longitude>179.13</longitude>
+    <latitude>8.31</latitude>
+    <travelzone>184</travelzone>
+  </location>
+  <location id="185">
+    <name>Uganda</name>
+    <image>_img/locations/uganda.jpg</image>
+    <tagline>Short tagline of Uganda</tagline>
+    <description>This is a description.</description>
+    <capital>Kampala</capital>
+    <longitude>32.3</longitude>
+    <latitude>0.2</latitude>
+    <travelzone>185</travelzone>
+  </location>
+  <location id="186">
+    <name>Ukraine</name>
+    <image>_img/locations/ukraine.jpg</image>
+    <tagline>Short tagline of Ukraine</tagline>
+    <description>This is a description.</description>
+    <capital>Kiev</capital>
+    <longitude>30.28</longitude>
+    <latitude>50.3</latitude>
+    <travelzone>186</travelzone>
+  </location>
+  <location id="187">
+    <name>United Arab Emirates</name>
+    <image>_img/locations/unitedarabemirates.jpg</image>
+    <tagline>Short tagline of United Arab Emirates</tagline>
+    <description>This is a description.</description>
+    <capital>Abu Dhabi</capital>
+    <longitude>54.22</longitude>
+    <latitude>24.28</latitude>
+    <travelzone>187</travelzone>
+  </location>
+  <location id="188">
+    <name>United Kingdom of Great Britain</name>
+    <image>_img/locations/unitedkingdomofgreatbritain.jpg</image>
+    <tagline>Short tagline of United Kingdom of Great Britain</tagline>
+    <description>This is a description.</description>
+    <capital>London</capital>
+    <longitude>0.05</longitude>
+    <latitude>51.36</latitude>
+    <travelzone>188</travelzone>
+  </location>
+  <location id="189">
+    <name>United Republic of Tanzania</name>
+    <image>_img/locations/unitedrepublicoftanzania.jpg</image>
+    <tagline>Short tagline of United Republic of Tanzania</tagline>
+    <description>This is a description.</description>
+    <capital>Dodoma</capital>
+    <longitude>35.45</longitude>
+    <latitude>6.08</latitude>
+    <travelzone>189</travelzone>
+  </location>
+  <location id="190">
+    <name>United States of America</name>
+    <image>_img/locations/unitedstatesofamerica.jpg</image>
+    <tagline>Short tagline of United States of America</tagline>
+    <description>This is a description.</description>
+    <capital>Washington DC</capital>
+    <longitude>77.02</longitude>
+    <latitude>39.91</latitude>
+    <travelzone>190</travelzone>
+  </location>
+  <location id="191">
+    <name>United States of Virgin Islands</name>
+    <image>_img/locations/unitedstatesofvirginislands.jpg</image>
+    <tagline>Short tagline of United States of Virgin Islands</tagline>
+    <description>This is a description.</description>
+    <capital>Charlotte Amalie</capital>
+    <longitude>64.56</longitude>
+    <latitude>18.21</latitude>
+    <travelzone>191</travelzone>
+  </location>
+  <location id="192">
+    <name>Uruguay</name>
+    <image>_img/locations/uruguay.jpg</image>
+    <tagline>Short tagline of Uruguay</tagline>
+    <description>This is a description.</description>
+    <capital>Montevideo</capital>
+    <longitude>56.11</longitude>
+    <latitude>34.5</latitude>
+    <travelzone>192</travelzone>
+  </location>
+  <location id="193">
+    <name>Uzbekistan</name>
+    <image>_img/locations/uzbekistan.jpg</image>
+    <tagline>Short tagline of Uzbekistan</tagline>
+    <description>This is a description.</description>
+    <capital>Tashkent</capital>
+    <longitude>69.1</longitude>
+    <latitude>41.2</latitude>
+    <travelzone>193</travelzone>
+  </location>
+  <location id="194">
+    <name>Vanuatu</name>
+    <image>_img/locations/vanuatu.jpg</image>
+    <tagline>Short tagline of Vanuatu</tagline>
+    <description>This is a description.</description>
+    <capital>Port-Vila</capital>
+    <longitude>168.18</longitude>
+    <latitude>17.45</latitude>
+    <travelzone>194</travelzone>
+  </location>
+  <location id="195">
+    <name>Venezuela</name>
+    <image>_img/locations/venezuela.jpg</image>
+    <tagline>Short tagline of Venezuela</tagline>
+    <description>This is a description.</description>
+    <capital>Caracas</capital>
+    <longitude>66.55</longitude>
+    <latitude>10.3</latitude>
+    <travelzone>195</travelzone>
+  </location>
+  <location id="196">
+    <name>Vietnam</name>
+    <image>_img/locations/vietnam.jpg</image>
+    <tagline>Short tagline of Vietnam</tagline>
+    <description>This is a description.</description>
+    <capital>Hanoi</capital>
+    <longitude>105.55</longitude>
+    <latitude>21.05</latitude>
+    <travelzone>196</travelzone>
+  </location>
+  <location id="197">
+    <name>Yugoslavia</name>
+    <image>_img/locations/yugoslavia.jpg</image>
+    <tagline>Short tagline of Yugoslavia</tagline>
+    <description>This is a description.</description>
+    <capital>Belgrade</capital>
+    <longitude>20.37</longitude>
+    <latitude>44.5</latitude>
+    <travelzone>197</travelzone>
+  </location>
+  <location id="198">
+    <name>Zambia</name>
+    <image>_img/locations/zambia.jpg</image>
+    <tagline>Short tagline of Zambia</tagline>
+    <description>This is a description.</description>
+    <capital>Lusaka</capital>
+    <longitude>28.16</longitude>
+    <latitude>15.28</latitude>
+    <travelzone>198</travelzone>
+  </location>
+  <location id="199">
+    <name>Zimbabwe</name>
+    <image>_img/locations/zimbabwe.jpg</image>
+    <tagline>Short tagline of Zimbabwe</tagline>
+    <description>This is a description.</description>
+    <capital>Harare</capital>
+    <longitude>31.02</longitude>
+    <latitude>17.43</latitude>
+    <travelzone>199</travelzone>
+  </location>
+</locationlist>

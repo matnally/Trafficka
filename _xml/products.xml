@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<productlist>
+	<product id="0">
+		<name>Gold Bar</name>
+		<image>_img/products/goldbar.png</image>
+		<description>This is a heavy solid Gold Bar. Worth a lot.</description>
+		<stock>0</stock>
+		<price>
+			<high>0</high>
+			<average>0</average>
+			<low>0</low>
+			<current>0</current>
+			<history>0</history>
+		</price>
+		<travelzone>5,2,4,0,9,1</travelzone>
+	</product>
+	<product id="1">
+		<name>Gold Ore</name>
+		<image>_img/products/goldore.png</image>
+		<description>Not as expensive as a Gold Bar but still worth it.</description>
+		<stock>0</stock>
+		<price>
+			<high>0</high>
+			<average>0</average>
+			<low>0</low>
+			<current>0</current>
+			<history>0</history>
+		</price>
+		<travelzone>2,7,6,5,3,4</travelzone>
+	</product>
+	<product id="2">
+		<name>Silver Bar</name>
+		<image>_img/products/silverbar.png</image>
+		<description>A solid Silver Bar. Worth something.</description>
+		<stock>0</stock>
+		<price>
+			<high>0</high>
+			<average>0</average>
+			<low>0</low>
+			<current>0</current>
+			<history>0</history>
+		</price>
+		<travelzone>3,0,5,1,8</travelzone>
+	</product>
+	<product id="3">
+		<name>Book of Something</name>
+		<image>_img/products/book.png</image>
+		<description>The subject of Something is discussed in this cheap book.</description>
+		<stock>0</stock>
+		<price>
+			<high>0</high>
+			<average>0</average>
+			<low>0</low>
+			<current>0</current>
+			<history>0</history>
+		</price>
+		<travelzone>7,3,1,0</travelzone>
+	</product>
+	<product id="4">
+		<name>Book of Something else</name>
+		<image>_img/products/bookold.png</image>
+		<description>An old book. Someone should want to read this one day.</description>
+		<stock>0</stock>
+		<price>
+			<high>0</high>
+			<average>0</average>
+			<low>0</low>
+			<current>0</current>
+			<history>0</history>
+		</price>
+		<travelzone>2,6,3</travelzone>
+	</product>
+	<product id="5">
+		<name>Plant</name>
+		<image>_img/products/plant.png</image>
+		<description>This plant smells funny.</description>
+		<stock>0</stock>
+		<price>
+			<high>0</high>
+			<average>0</average>
+			<low>0</low>
+			<current>0</current>
+			<history>0</history>
+		</price>
+		<travelzone>0,8,9,2</travelzone>
+	</product>
+	<product id="6">
+		<name>Ham Shoulder</name>
+		<image>_img/products/ham.png</image>
+		<description>A lovely shoulder o' ham.</description>
+		<stock>0</stock>
+		<price>
+			<high>0</high>
+			<average>0</average>
+			<low>0</low>
+			<current>0</current>
+			<history>0</history>
+		</price>
+		<travelzone>3,5,7</travelzone>
+	</product>
+	<product id="7">
+		<name>Beer</name>
+		<image>_img/products/beer.png</image>
+		<description>A nice pint!</description>
+		<stock>0</stock>
+		<price>
+			<high>0</high>
+			<average>0</average>
+			<low>0</low>
+			<current>0</current>
+			<history>0</history>
+		</price>
+		<travelzone>3,9,1</travelzone>
+	</product>
+	<product id="8">
+		<name>Tablets</name>
+		<image>_img/products/tabletbox.png</image>
+		<description>A box of suspicious tablets.</description>
+		<stock>0</stock>
+		<price>
+			<high>0</high>
+			<average>0</average>
+			<low>0</low>
+			<current>0</current>
+			<history>0</history>
+		</price>
+		<travelzone>9</travelzone>
+	</product>
+	<product id="9">
+		<name>Stardust</name>
+		<image>_img/products/stars.png</image>
+		<description>A handful of Stardust (not the film).</description>
+		<stock>0</stock>
+		<price>
+			<high>0</high>
+			<average>0</average>
+			<low>0</low>
+			<current>0</current>
+			<history>0</history>
+		</price>
+		<travelzone>0,2,8,4,5,6</travelzone>
+	</product>
+	<product id="10">
+		<name>Sasuage</name>
+		<image>_img/products/sasuage.png</image>
+		<description>Sasuage! SASUAGE!</description>
+		<stock>0</stock>
+		<price>
+			<high>0</high>
+			<average>0</average>
+			<low>0</low>
+			<current>0</current>
+			<history>0</history>
+		</price>
+		<travelzone>9,4,3,7</travelzone>
+	</product>
+	<product id="11">
+		<name>Hammer</name>
+		<image>_img/products/hammer.png</image>
+		<description>Hammer in the evening, Hammer in the summertime.</description>
+		<stock>0</stock>
+		<price>
+			<high>0</high>
+			<average>0</average>
+			<low>0</low>
+			<current>0</current>
+			<history>0</history>
+		</price>
+		<travelzone>2,9,3,1,5,4</travelzone>
+	</product>
+	<product id="12">
+		<name>Fish</name>
+		<image>_img/products/fish.png</image>
+		<description>Smelly Fish!</description>
+		<stock>0</stock>
+		<price>
+			<high>0</high>
+			<average>0</average>
+			<low>0</low>
+			<current>0</current>
+			<history>0</history>
+		</price>
+		<travelzone>9,3,0,6,5</travelzone>
+	</product>
+</productlist>
